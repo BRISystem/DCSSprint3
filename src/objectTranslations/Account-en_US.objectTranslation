@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Household</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Households</value>
+    </caseValues>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Access</value>
+        </caseValues>
+        <name>account_access</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Access Level</value>
+        </caseValues>
+        <name>account_access_level</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Contact Role</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Households Contact Roles</value>
+        </caseValues>
+        <name>account_contact_role</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Creator</value>
+        </caseValues>
+        <name>account_creator</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Currency</value>
+        </caseValues>
+        <name>account_currency</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Description</value>
+        </caseValues>
+        <name>account_description</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Detail Page</value>
+        </caseValues>
+        <name>account_detail_page</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Division</value>
+        </caseValues>
+        <name>account_division</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Edit</value>
+        </caseValues>
+        <name>account_edit</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Fax</value>
+        </caseValues>
+        <name>account_fax</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Field</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Households Fields</value>
+        </caseValues>
+        <name>account_field</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households General</value>
+        </caseValues>
+        <name>account_general</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Hierarchy</value>
+        </caseValues>
+        <name>account_hierarchy</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households History</value>
+        </caseValues>
+        <name>account_history</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households History Archive</value>
+        </caseValues>
+        <name>account_history_archive</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households History Report</value>
+        </caseValues>
+        <name>account_history_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households ID</value>
+        </caseValues>
+        <name>account_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Information</value>
+        </caseValues>
+        <name>account_information</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Household Name</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Household Names</value>
+        </caseValues>
+        <name>account_name</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Number</value>
+        </caseValues>
+        <name>account_number</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Owner</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Households Owners</value>
+        </caseValues>
+        <name>account_owner</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Owner Alias</value>
+        </caseValues>
+        <name>account_owner_alias</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Owner Report</value>
+        </caseValues>
+        <name>account_owner_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Owner Role</value>
+        </caseValues>
+        <name>account_owner_role</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Ownership</value>
+        </caseValues>
+        <name>account_ownership</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Phone</value>
+        </caseValues>
+        <name>account_phone</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Rating</value>
+        </caseValues>
+        <name>account_rating</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Record</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Households Records</value>
+        </caseValues>
+        <name>account_record</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Record Type</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Households Record Types</value>
+        </caseValues>
+        <name>account_record_type</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Report</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Households Reports</value>
+        </caseValues>
+        <name>account_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Sharing</value>
+        </caseValues>
+        <name>account_sharing</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Site</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Households Sites</value>
+        </caseValues>
+        <name>account_site</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Source</value>
+        </caseValues>
+        <name>account_source</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Stage ID</value>
+        </caseValues>
+        <name>account_stage_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Team</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Households Teams</value>
+        </caseValues>
+        <name>account_team</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Team Member</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Households Team Members</value>
+        </caseValues>
+        <name>account_team_member</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Team Member ID</value>
+        </caseValues>
+        <name>account_team_member_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Team Report</value>
+        </caseValues>
+        <name>account_team_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Territory</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Households Territories</value>
+        </caseValues>
+        <name>account_territory</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Tool</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Households Tools</value>
+        </caseValues>
+        <name>account_tool</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households Type</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Households Types</value>
+        </caseValues>
+        <name>account_type</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Households View</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Households Views</value>
+        </caseValues>
+        <name>account_view</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Parent Households</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Parent Households</value>
+        </caseValues>
+        <name>parent_account</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Parent Households Division</value>
+        </caseValues>
+        <name>parent_account_division</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Parent Households ID</value>
+        </caseValues>
+        <name>parent_account_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Parent Households Site</value>
+        </caseValues>
+        <name>parent_account_site</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Person Households Record</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Person Households Records</value>
+        </caseValues>
+        <name>person_account_record</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <label><!-- Alimony Amount --></label>
+        <name>BRI_Alimony_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Allen Transfer --></label>
+        <name>BRI_Allen_Transfer__c</name>
+    </fields>
+    <fields>
+        <label><!-- Annual Income --></label>
+        <name>BRI_Annual_Income__c</name>
+    </fields>
+    <fields>
+        <label><!-- Auto Deduction Plan --></label>
+        <name>BRI_Auto_Deduction_Plan__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Business Amount --></label>
+        <name>BRI_Business_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Change --></label>
+        <name>BRI_CPCS_Change__c</name>
+    </fields>
+    <fields>
+        <label><!-- Referral Source --></label>
+        <name>BRI_CPCS_Referral_Source__c</name>
+        <relationshipLabel><!-- CPCS Referral --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Referral Type --></label>
+        <name>BRI_CPCS_Referral_Type__c</name>
+        <picklistValues>
+            <masterLabel>Adult Probation</masterLabel>
+            <translation><!-- Adult Probation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Community Agency</masterLabel>
+            <translation><!-- Community Agency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Department of Child Services</masterLabel>
+            <translation><!-- Department of Child Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Faith Based Organization</masterLabel>
+            <translation><!-- Faith Based Organization --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Family / Neighbor</masterLabel>
+            <translation><!-- Family / Neighbor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Healthy Families</masterLabel>
+            <translation><!-- Healthy Families --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Juvenile Probation</masterLabel>
+            <translation><!-- Juvenile Probation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legal System</masterLabel>
+            <translation><!-- Legal System --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medical System</masterLabel>
+            <translation><!-- Medical System --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mental Health Center</masterLabel>
+            <translation><!-- Mental Health Center --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other CPCS Region</masterLabel>
+            <translation><!-- Other CPCS Region --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>School</masterLabel>
+            <translation><!-- School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Self</masterLabel>
+            <translation><!-- Self --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Change Date --></label>
+        <name>BRI_Change_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Change Number --></label>
+        <name>BRI_Change__c</name>
+    </fields>
+    <fields>
+        <label><!-- Child Dental Care Source --></label>
+        <name>BRI_Child_Dental_Care_Source__c</name>
+        <picklistValues>
+            <masterLabel>Do not have ususal source of dental care</masterLabel>
+            <translation><!-- Do not have ususal source of dental care --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Have a ususal source of dental care</masterLabel>
+            <translation><!-- Have a ususal source of dental care --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prenatal Client</masterLabel>
+            <translation><!-- Prenatal Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown </masterLabel>
+            <translation><!-- Unknown  --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Child Med Care Source --></label>
+        <name>BRI_Child_Med_Care_Source__c</name>
+        <picklistValues>
+            <masterLabel>Doctor/Nurse Practitioner</masterLabel>
+            <translation><!-- Doctor/Nurse Practitioner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Federally Qualified Health Center</masterLabel>
+            <translation><!-- Federally Qualified Health Center --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hopsital ER</masterLabel>
+            <translation><!-- Hopsital ER --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hospital Outpatient</masterLabel>
+            <translation><!-- Hospital Outpatient --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other </masterLabel>
+            <translation><!-- Other  --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prenatal Client</masterLabel>
+            <translation><!-- Prenatal Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Retail or Minute Clinic</masterLabel>
+            <translation><!-- Retail or Minute Clinic --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Child Support Amount --></label>
+        <name>BRI_Child_Support_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Composed Id --></label>
+        <name>BRI_Composed_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Court Ordered Child Support --></label>
+        <name>BRI_Court_Ordered_Child_Support__c</name>
+    </fields>
+    <fields>
+        <label><!-- Current Family Level --></label>
+        <name>BRI_Current_Family_Level__c</name>
+        <picklistValues>
+            <masterLabel>1 B</masterLabel>
+            <translation><!-- 1 B --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1C</masterLabel>
+            <translation><!-- 1C --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IA</masterLabel>
+            <translation><!-- IA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>II</masterLabel>
+            <translation><!-- II --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>III</masterLabel>
+            <translation><!-- III --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IV</masterLabel>
+            <translation><!-- IV --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NS</masterLabel>
+            <translation><!-- NS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>P1</masterLabel>
+            <translation><!-- P1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SS</masterLabel>
+            <translation><!-- SS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ST</masterLabel>
+            <translation><!-- ST --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>T</masterLabel>
+            <translation><!-- T --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UE</masterLabel>
+            <translation><!-- UE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X1</masterLabel>
+            <translation><!-- X1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X2</masterLabel>
+            <translation><!-- X2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X3</masterLabel>
+            <translation><!-- X3 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Current Medicare/ Aid --></label>
+        <name>BRI_Current_Medicare_aid__c</name>
+        <picklistValues>
+            <masterLabel>NO</masterLabel>
+            <translation><!-- NO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YES</masterLabel>
+            <translation><!-- YES --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- DCS Program --></label>
+        <name>BRI_DCS_Program__c</name>
+        <picklistValues>
+            <masterLabel>CPCS</masterLabel>
+            <translation><!-- CPCS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HFI</masterLabel>
+            <translation><!-- HFI --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Delete Program Admission Date --></label>
+        <name>BRI_Delete_Program_Admission_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Disability Amount --></label>
+        <name>BRI_Disability_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Earn Income Amount --></label>
+        <name>BRI_Earn_Income_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Encrypted ID String --></label>
+        <name>BRI_Encrypted_ID_String__c</name>
+    </fields>
+    <fields>
+        <label><!-- Encrypted ID --></label>
+        <name>BRI_Encrypted_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- FAW CR --></label>
+        <name>BRI_FAW_CR__c</name>
+    </fields>
+    <fields>
+        <label><!-- FAW --></label>
+        <name>BRI_FAW__c</name>
+        <relationshipLabel><!-- Households (FAW) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- FF Amount --></label>
+        <name>BRI_FF_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- FLearn --></label>
+        <name>BRI_FLearn__c</name>
+    </fields>
+    <fields>
+        <label><!-- FMEB --></label>
+        <name>BRI_FMEB__c</name>
+    </fields>
+    <fields>
+        <label><!-- FN-County Code --></label>
+        <name>BRI_FN_County_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- FN- County Family Resides --></label>
+        <name>BRI_FN_County_Family_Resides__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- FN- Program Within County --></label>
+        <name>BRI_FN_Program_Within_County__c</name>
+    </fields>
+    <fields>
+        <label><!-- FPhysical --></label>
+        <name>BRI_FPhysical__c</name>
+    </fields>
+    <fields>
+        <label><!-- FSW-CR --></label>
+        <name>BRI_FSW_CR__c</name>
+    </fields>
+    <fields>
+        <label><!-- FSW --></label>
+        <name>BRI_FSW__c</name>
+    </fields>
+    <fields>
+        <label><!-- Family In Target Population --></label>
+        <name>BRI_Family_In_Target_Population__c</name>
+        <picklistValues>
+            <masterLabel>NO</masterLabel>
+            <translation><!-- NO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YES</masterLabel>
+            <translation><!-- YES --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Family Number --></label>
+        <name>BRI_Family_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Final Funding Source --></label>
+        <name>BRI_Final_Funding_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- Food Stamps Amount --></label>
+        <name>BRI_Food_Stamps_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Formal Inkind Support Amount --></label>
+        <name>BRI_Formal_Inkind_Support_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Funding Source --></label>
+        <name>BRI_Funding_Source__c</name>
+        <picklistValues>
+            <masterLabel>MIEC</masterLabel>
+            <translation><!-- MIEC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>State HF</masterLabel>
+            <translation><!-- State HF --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TANF/MOE</masterLabel>
+            <translation><!-- TANF/MOE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Title 20</masterLabel>
+            <translation><!-- Title 20 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- HOH Citizen/Qualified Alien --></label>
+        <name>BRI_HOH_Citizen_Qualified_Alien__c</name>
+    </fields>
+    <fields>
+        <label><!-- HVisit Number Count --></label>
+        <name>BRI_HVisit_Number_Count__c</name>
+    </fields>
+    <fields>
+        <label><!-- Home Visit Count --></label>
+        <name>BRI_Home_Visit_Count__c</name>
+    </fields>
+    <fields>
+        <label><!-- Homeless Status --></label>
+        <name>BRI_Homeless_Status__c</name>
+        <picklistValues>
+            <masterLabel>Homeless</masterLabel>
+            <translation><!-- Homeless --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Homeless</masterLabel>
+            <translation><!-- Not Homeless --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Housing Specify --></label>
+        <name>BRI_Housing_Specify__c</name>
+    </fields>
+    <fields>
+        <label><!-- Housing Stability --></label>
+        <name>BRI_Housing_Stability__c</name>
+    </fields>
+    <fields>
+        <label><!-- Housing Status --></label>
+        <name>BRI_Housing_Status__c</name>
+        <picklistValues>
+            <masterLabel>Homeless</masterLabel>
+            <translation><!-- Homeless --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Owns home</masterLabel>
+            <translation><!-- Owns home --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rents</masterLabel>
+            <translation><!-- Rents --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shares Apartment/Home with Family</masterLabel>
+            <translation><!-- Shares Apartment/Home with Family --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shares Apartment/Home with Friend</masterLabel>
+            <translation><!-- Shares Apartment/Home with Friend --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Income Situation --></label>
+        <name>BRI_Income_Situation__c</name>
+    </fields>
+    <fields>
+        <label><!-- Informal Inkind Support Amount --></label>
+        <name>BRI_Informal_Inkind_Support_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Insurance ID --></label>
+        <name>BRI_Insurance_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Insurance TGT Child --></label>
+        <name>BRI_Insurance_TGT_Child__c</name>
+    </fields>
+    <fields>
+        <label><!-- Interest Amount --></label>
+        <name>BRI_Interest_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is Reliable --></label>
+        <name>BRI_Is_Reliable__c</name>
+    </fields>
+    <fields>
+        <label><!-- Legal Name --></label>
+        <name>BRI_Legal_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Low Achievement --></label>
+        <name>BRI_Low_Achievement__c</name>
+        <picklistValues>
+            <masterLabel>NO</masterLabel>
+            <translation><!-- NO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UNKNOWN</masterLabel>
+            <translation><!-- UNKNOWN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YES</masterLabel>
+            <translation><!-- YES --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- MLearn --></label>
+        <name>BRI_MLearn__c</name>
+    </fields>
+    <fields>
+        <label><!-- MMEB --></label>
+        <name>BRI_MMEB__c</name>
+    </fields>
+    <fields>
+        <label><!-- MPhysical --></label>
+        <name>BRI_MPhysical__c</name>
+    </fields>
+    <fields>
+        <label><!-- Memo --></label>
+        <name>BRI_Memo__c</name>
+    </fields>
+    <fields>
+        <label><!-- Military --></label>
+        <name>BRI_Military__c</name>
+        <picklistValues>
+            <masterLabel>Active</masterLabel>
+            <translation><!-- Active --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reserve</masterLabel>
+            <translation><!-- Reserve --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Veteran</masterLabel>
+            <translation><!-- Veteran --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Monthly Income --></label>
+        <name>BRI_Monthly_Income__c</name>
+    </fields>
+    <fields>
+        <label><!-- Non-target Child Dev Delay --></label>
+        <name>BRI_NT_Child_Dev_Delay__c</name>
+        <picklistValues>
+            <masterLabel>NO</masterLabel>
+            <translation><!-- NO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UNKNOWN</masterLabel>
+            <translation><!-- UNKNOWN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YES</masterLabel>
+            <translation><!-- YES --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Non-target Child Low Achievement --></label>
+        <name>BRI_NT_Child_Low_Achievement__c</name>
+        <picklistValues>
+            <masterLabel>NO</masterLabel>
+            <translation><!-- NO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UNKNOWN</masterLabel>
+            <translation><!-- UNKNOWN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YES</masterLabel>
+            <translation><!-- YES --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Other Support Amount --></label>
+        <name>BRI_Other_Support_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Primary Caregiver Use Tobacco Or Smoke --></label>
+        <name>BRI_PC_Use_Tobacco_Or_Smoke__c</name>
+        <picklistValues>
+            <masterLabel>NO</masterLabel>
+            <translation><!-- NO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UnKNOWN</masterLabel>
+            <translation><!-- UnKNOWN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YES</masterLabel>
+            <translation><!-- YES --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- PRelation --></label>
+        <name>BRI_PRelation__c</name>
+    </fields>
+    <fields>
+        <label><!-- Parent Site --></label>
+        <name>BRI_Parent_Site__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Pension Amount --></label>
+        <name>BRI_Pension_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- % Poverty Level --></label>
+        <name>BRI_Percent_Poverty_Level__c</name>
+        <picklistValues>
+            <masterLabel>100</masterLabel>
+            <translation><!-- 100 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>125</masterLabel>
+            <translation><!-- 125 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>133</masterLabel>
+            <translation><!-- 133 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>150</masterLabel>
+            <translation><!-- 150 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>175</masterLabel>
+            <translation><!-- 175 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>200</masterLabel>
+            <translation><!-- 200 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>225</masterLabel>
+            <translation><!-- 225 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>250</masterLabel>
+            <translation><!-- 250 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>300</masterLabel>
+            <translation><!-- 300 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>301</masterLabel>
+            <translation><!-- 301 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>50</masterLabel>
+            <translation><!-- 50 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Primary Caretaker --></label>
+        <name>BRI_Primary_Caretaker__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Program Executive --></label>
+        <name>BRI_Program_Executive__c</name>
+        <relationshipLabel><!-- Accounts (Program Executive) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Program Manager --></label>
+        <name>BRI_Program_Manager__c</name>
+        <relationshipLabel><!-- Accounts (Program Manager) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Referral Date --></label>
+        <name>BRI_Referral_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Referral Type --></label>
+        <name>BRI_Referral_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Refferal Specify --></label>
+        <name>BRI_Refferal_Specify__c</name>
+    </fields>
+    <fields>
+        <label><!-- Regular Payments --></label>
+        <name>BRI_Regular_Payments__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Reliable Transportation --></label>
+        <name>BRI_Reliable_Transportation__c</name>
+    </fields>
+    <fields>
+        <label><!-- SSI Amount --></label>
+        <name>BRI_SSI_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- S/O Name --></label>
+        <name>BRI_S_O_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- S/O Phone --></label>
+        <name>BRI_S_O_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Same Address --></label>
+        <name>BRI_Same_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Screen Type --></label>
+        <name>BRI_Screen_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Social Security Amount --></label>
+        <name>BRI_Social_Security_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- State ID --></label>
+        <name>BRI_State_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Street 1 --></label>
+        <name>BRI_Street_1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Street 2 --></label>
+        <name>BRI_Street_2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Street 3 --></label>
+        <name>BRI_Street_3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Supervisor Review --></label>
+        <name>BRI_Supervisor_Review__c</name>
+    </fields>
+    <fields>
+        <label><!-- TANF Amount --></label>
+        <name>BRI_TANF_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- TANF Eligible Individual --></label>
+        <name>BRI_TANF_Eligible_Individual__c</name>
+        <picklistValues>
+            <masterLabel>Adult 1</masterLabel>
+            <translation><!-- Adult 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Adult 2</masterLabel>
+            <translation><!-- Adult 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TGT</masterLabel>
+            <translation><!-- TGT --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Tenant Rent Amount --></label>
+        <name>BRI_Tenant_Rent_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tobacco Use In Home --></label>
+        <name>BRI_Tobacco_Use_In_Home__c</name>
+        <picklistValues>
+            <masterLabel>NO</masterLabel>
+            <translation><!-- NO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UNKNOWN</masterLabel>
+            <translation><!-- UNKNOWN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YES</masterLabel>
+            <translation><!-- YES --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Total Adult / home --></label>
+        <name>BRI_Total_Adult_home__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Children Parent is Responsible For --></label>
+        <name>BRI_Total_Child_MOB_Responsible__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Child /home --></label>
+        <name>BRI_Total_Child_home__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total in family --></label>
+        <name>BRI_Total_in_family__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tracking --></label>
+        <name>BRI_Tracking__c</name>
+    </fields>
+    <fields>
+        <label><!-- Transfer Family --></label>
+        <name>BRI_Transfer_Family__c</name>
+        <picklistValues>
+            <masterLabel>NO</masterLabel>
+            <translation><!-- NO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YES</masterLabel>
+            <translation><!-- YES --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Transportation Access --></label>
+        <name>BRI_Transportation_Access__c</name>
+        <picklistValues>
+            <masterLabel>Has no source of transportation</masterLabel>
+            <translation><!-- Has no source of transportation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Owns car / Leases car</masterLabel>
+            <translation><!-- Owns car / Leases car --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Relies on family member or friend with car</masterLabel>
+            <translation><!-- Relies on family member or friend with car --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Relies on household member with car</masterLabel>
+            <translation><!-- Relies on household member with car --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Uses public transportation</masterLabel>
+            <translation><!-- Uses public transportation --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Type Housing --></label>
+        <name>BRI_Type_Housing__c</name>
+        <picklistValues>
+            <masterLabel>Homeless</masterLabel>
+            <translation><!-- Homeless --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Owns home</masterLabel>
+            <translation><!-- Owns home --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rents</masterLabel>
+            <translation><!-- Rents --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shares Apartment/Home with Family</masterLabel>
+            <translation><!-- Shares Apartment/Home with Family --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shares Apartment/Home with Friend</masterLabel>
+            <translation><!-- Shares Apartment/Home with Friend --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Un Employment Amount --></label>
+        <name>BRI_Un_Employment_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Veteran Amount --></label>
+        <name>BRI_Veteran_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- WIC Amount --></label>
+        <name>BRI_WIC_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- WIC Eligible --></label>
+        <name>BRI_WIC_Eligible__c</name>
+        <picklistValues>
+            <masterLabel>Child Eligible Only</masterLabel>
+            <translation><!-- Child Eligible Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not WIC Eligible</masterLabel>
+            <translation><!-- Not WIC Eligible --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prenatal Eligible Only</masterLabel>
+            <translation><!-- Prenatal Eligible Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prenatal/Postpartum and Child Eligible</masterLabel>
+            <translation><!-- Prenatal/Postpartum and Child Eligible --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- WIC Status Change --></label>
+        <name>BRI_WIC_Status_Change__c</name>
+    </fields>
+    <fields>
+        <label><!-- WIC Vouchers --></label>
+        <name>BRI_WIC_Vouchers__c</name>
+        <picklistValues>
+            <masterLabel>NO</masterLabel>
+            <translation><!-- NO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YES</masterLabel>
+            <translation><!-- YES --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Workers Comp Amount --></label>
+        <name>BRI_Workers_Comp_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Xfer1 --></label>
+        <name>BRI_Xfer1__c</name>
+        <picklistValues>
+            <masterLabel>NO</masterLabel>
+            <translation><!-- NO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YES</masterLabel>
+            <translation><!-- YES --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Xfer2 --></label>
+        <name>BRI_Xfer2__c</name>
+        <picklistValues>
+            <masterLabel>NO</masterLabel>
+            <translation><!-- NO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YES</masterLabel>
+            <translation><!-- YES --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- County --></label>
+        <name>County_Lookup__c</name>
+        <relationshipLabel><!-- Households (County) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- County --></label>
+        <name>County__c</name>
+    </fields>
+    <fields>
+        <label><!-- FSW --></label>
+        <name>FSW__c</name>
+        <relationshipLabel><!-- Households (FSW) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Family Provider --></label>
+        <name>Family_Provider__c</name>
+        <picklistValues>
+            <masterLabel>Has provider; limited contact</masterLabel>
+            <translation><!-- Has provider; limited contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Has provider; never been seen</masterLabel>
+            <translation><!-- Has provider; never been seen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Has provider; regular contact</masterLabel>
+            <translation><!-- Has provider; regular contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Has provider; use emergency room only</masterLabel>
+            <translation><!-- Has provider; use emergency room only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No provider; use emergency room only</masterLabel>
+            <translation><!-- No provider; use emergency room only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- IncidentR Max --></label>
+        <name>IncidentR_Max__c</name>
+    </fields>
+    <fields>
+        <label><!-- Intake Number --></label>
+        <name>Intake_Number__c</name>
+        <relationshipLabel><!-- Households --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Referral Source --></label>
+        <name>Referral_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- Region --></label>
+        <name>Region__c</name>
+        <relationshipLabel><!-- Households --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Site --></label>
+        <name>Site__c</name>
+        <relationshipLabel><!-- Households --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Test Field --></label>
+        <name>Test_Field__c</name>
+    </fields>
+    <layouts>
+        <layout>County</layout>
+        <sections>
+            <label><!-- Account Summary --></label>
+            <section>Account Summary</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Household CPCS Layout</layout>
+        <sections>
+            <label><!-- Account Summary --></label>
+            <section>Account Summary</section>
+        </sections>
+        <sections>
+            <label><!-- Family Details --></label>
+            <section>Family Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Household Layout</layout>
+        <sections>
+            <label><!-- Account Summary --></label>
+            <section>Account Summary</section>
+        </sections>
+        <sections>
+            <label><!-- Record Assignment --></label>
+            <section>Record Assignment</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Site Layout</layout>
+        <sections>
+            <label><!-- Account Summary --></label>
+            <section>Account Summary</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Child Account --></label>
+        <name>Child_Account</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Face To Face Contacts --></label>
+        <name>Face_To_Face_Contacts</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New DemographicsFamily --></label>
+        <name>NewFL</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New DemographicsFamily --></label>
+        <name>NewFsw</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Home Visit --></label>
+        <name>NewHomevisit</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Incident Report --></label>
+        <name>New_Incident_Report</name>
+    </quickActions>
+    <recordTypes>
+        <label><!-- County --></label>
+        <name>County</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Family - CPCS --></label>
+        <name>Family_CPCS</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Family - HFI --></label>
+        <name>Family_HFI</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Household --></label>
+        <name>Household</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Household CPCS --></label>
+        <name>Household_CPCS</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Household - HFI --></label>
+        <name>Household_HFI</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Provider --></label>
+        <name>Provider</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Site --></label>
+        <name>Site</name>
+    </recordTypes>
+    <startsWith>Vowel</startsWith>
+    <webLinks>
+        <label><!-- GoogleMaps --></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleNews --></label>
+        <name>GoogleNews</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleSearch --></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_FL --></label>
+        <name>New_FL</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_FSW --></label>
+        <name>New_FSW</name>
+    </webLinks>
+</CustomObjectTranslation>

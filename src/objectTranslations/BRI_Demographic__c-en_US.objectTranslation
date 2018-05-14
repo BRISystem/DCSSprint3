@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Demographic</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Demographics</value>
+    </caseValues>
+    <fields>
+        <label><!-- Address --></label>
+        <name>BRI_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Auto Num --></label>
+        <name>BRI_Auto_Num__c</name>
+    </fields>
+    <fields>
+        <label><!-- AveMonthly Support --></label>
+        <name>BRI_AveMonthly_Support__c</name>
+    </fields>
+    <fields>
+        <label><!-- Average Hours Week --></label>
+        <name>BRI_Average_Hours_Week__c</name>
+    </fields>
+    <fields>
+        <label><!-- Average Unpaid Hours CC --></label>
+        <name>BRI_Average_Unpaid_Hours_CC__c</name>
+    </fields>
+    <fields>
+        <label><!-- Change Date --></label>
+        <name>BRI_Change_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Change Reason --></label>
+        <name>BRI_Change_Reason__c</name>
+        <picklistValues>
+            <masterLabel>Death</masterLabel>
+            <translation><!-- Death --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>change in duties</masterLabel>
+            <translation><!-- change in duties --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>illness</masterLabel>
+            <translation><!-- illness --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>initial assignment</masterLabel>
+            <translation><!-- initial assignment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>leave</masterLabel>
+            <translation><!-- leave --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>left program/agency</masterLabel>
+            <translation><!-- left program/agency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>specialist assigned</masterLabel>
+            <translation><!-- specialist assigned --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>supervisor discreation</masterLabel>
+            <translation><!-- supervisor discreation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>vacation</masterLabel>
+            <translation><!-- vacation --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Change --></label>
+        <name>BRI_Change__c</name>
+    </fields>
+    <fields>
+        <label><!-- Child Number --></label>
+        <name>BRI_Child_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- City --></label>
+        <name>BRI_City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Comment --></label>
+        <name>BRI_Comment__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact Person --></label>
+        <name>BRI_Contact_Person__c</name>
+    </fields>
+    <fields>
+        <label><!-- County Code --></label>
+        <name>BRI_County_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- County Family Resides --></label>
+        <name>BRI_County_Family_Resides__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date --></label>
+        <name>BRI_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Earnings --></label>
+        <name>BRI_Earnings__c</name>
+    </fields>
+    <fields>
+        <label><!-- Edu Avg Hours Week --></label>
+        <name>BRI_Edu_Avg_Hours_Week__c</name>
+    </fields>
+    <fields>
+        <label><!-- Education Level --></label>
+        <name>BRI_Education_Level__c</name>
+        <picklistValues>
+            <masterLabel>8th Grade or less</masterLabel>
+            <translation><!-- 8th Grade or less --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Certificate of High School Completion</masterLabel>
+            <translation><!-- Certificate of High School Completion --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Four Year College Degree</masterLabel>
+            <translation><!-- Four Year College Degree --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GED</masterLabel>
+            <translation><!-- GED --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Graduate Degree</masterLabel>
+            <translation><!-- Graduate Degree --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High School Graduate</masterLabel>
+            <translation><!-- High School Graduate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Some College</masterLabel>
+            <translation><!-- Some College --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Some High School</masterLabel>
+            <translation><!-- Some High School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Technical / Certification</masterLabel>
+            <translation><!-- Technical / Certification --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Two Year Degree</masterLabel>
+            <translation><!-- Two Year Degree --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Employement Status --></label>
+        <name>BRI_Employement_Status__c</name>
+        <picklistValues>
+            <masterLabel>Employed Full Time</masterLabel>
+            <translation><!-- Employed Full Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Employed Part Time</masterLabel>
+            <translation><!-- Employed Part Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maternity  leave, unpaid, full time</masterLabel>
+            <translation><!-- Maternity  leave, unpaid, full time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maternity  leave, unpaid, part time</masterLabel>
+            <translation><!-- Maternity  leave, unpaid, part time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maternity leave, paid, full time</masterLabel>
+            <translation><!-- Maternity leave, paid, full time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Permanent Disability</masterLabel>
+            <translation><!-- Permanent Disability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Temporary Disability</masterLabel>
+            <translation><!-- Temporary Disability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployed Not Seeking Work-Barriers</masterLabel>
+            <translation><!-- Unemployed Not Seeking Work-Barriers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployed Not Seeking Work-Preference</masterLabel>
+            <translation><!-- Unemployed Not Seeking Work-Preference --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployed Not Seeking Work-Teen Caregiver</masterLabel>
+            <translation><!-- Unemployed Not Seeking Work-Teen Caregiver --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployed Seeking Work</masterLabel>
+            <translation><!-- Unemployed Seeking Work --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>none</masterLabel>
+            <translation><!-- none --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Employer --></label>
+        <name>BRI_Employer__c</name>
+    </fields>
+    <fields>
+        <label><!-- End --></label>
+        <name>BRI_End__c</name>
+    </fields>
+    <fields>
+        <label><!-- Events --></label>
+        <name>BRI_Events__c</name>
+        <picklistValues>
+            <masterLabel>DTap</masterLabel>
+            <translation><!-- DTap --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flu Vaccine</masterLabel>
+            <translation><!-- Flu Vaccine --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HIV Screen</masterLabel>
+            <translation><!-- HIV Screen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Had Chicken Pox</masterLabel>
+            <translation><!-- Had Chicken Pox --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HepA</masterLabel>
+            <translation><!-- HepA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HepB</masterLabel>
+            <translation><!-- HepB --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hib</masterLabel>
+            <translation><!-- Hib --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IPV</masterLabel>
+            <translation><!-- IPV --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lead Screen</masterLabel>
+            <translation><!-- Lead Screen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MMR</masterLabel>
+            <translation><!-- MMR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PCV</masterLabel>
+            <translation><!-- PCV --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RotoVirus</masterLabel>
+            <translation><!-- RotoVirus --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tuberculosis Screen</masterLabel>
+            <translation><!-- Tuberculosis Screen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vericella</masterLabel>
+            <translation><!-- Vericella --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- FSW --></label>
+        <name>BRI_FSW__c</name>
+        <picklistValues>
+            <masterLabel>ABC</masterLabel>
+            <translation><!-- ABC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Family Level --></label>
+        <name>BRI_Family_Level__c</name>
+        <picklistValues>
+            <masterLabel>1A</masterLabel>
+            <translation><!-- 1A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1B</masterLabel>
+            <translation><!-- 1B --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1C</masterLabel>
+            <translation><!-- 1C --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>II</masterLabel>
+            <translation><!-- II --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>III</masterLabel>
+            <translation><!-- III --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IV</masterLabel>
+            <translation><!-- IV --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NS</masterLabel>
+            <translation><!-- NS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>P1</masterLabel>
+            <translation><!-- P1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SS</masterLabel>
+            <translation><!-- SS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ST</masterLabel>
+            <translation><!-- ST --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>T</masterLabel>
+            <translation><!-- T --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UE</masterLabel>
+            <translation><!-- UE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X1</masterLabel>
+            <translation><!-- X1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X2</masterLabel>
+            <translation><!-- X2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X3</masterLabel>
+            <translation><!-- X3 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Family Number --></label>
+        <name>BRI_Family_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- HHM Auto Num --></label>
+        <name>BRI_HHM_Auto_Num__c</name>
+    </fields>
+    <fields>
+        <label><!-- Highest Grade --></label>
+        <name>BRI_Highest_Grade__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>10</masterLabel>
+            <translation><!-- 10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>11</masterLabel>
+            <translation><!-- 11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>12</masterLabel>
+            <translation><!-- 12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6</masterLabel>
+            <translation><!-- 6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>7</masterLabel>
+            <translation><!-- 7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8</masterLabel>
+            <translation><!-- 8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>9</masterLabel>
+            <translation><!-- 9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>K</masterLabel>
+            <translation><!-- K --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No -School</masterLabel>
+            <translation><!-- No -School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pre-School</masterLabel>
+            <translation><!-- Pre-School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- In School --></label>
+        <name>BRI_In_School__c</name>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Marital Status --></label>
+        <name>BRI_MS__c</name>
+        <picklistValues>
+            <masterLabel>Divorced/ Widowed</masterLabel>
+            <translation><!-- Divorced/ Widowed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Living with partner</masterLabel>
+            <translation><!-- Living with partner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Married</masterLabel>
+            <translation><!-- Married --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Single</masterLabel>
+            <translation><!-- Single --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>separated</masterLabel>
+            <translation><!-- separated --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>unknown</masterLabel>
+            <translation><!-- unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Med Appt Reason --></label>
+        <name>BRI_Med_Appt_Reason__c</name>
+        <picklistValues>
+            <masterLabel>Illness</masterLabel>
+            <translation><!-- Illness --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Immunization Only</masterLabel>
+            <translation><!-- Immunization Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Injury-ER</masterLabel>
+            <translation><!-- Injury-ER --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medication Related</masterLabel>
+            <translation><!-- Medication Related --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mental Health</masterLabel>
+            <translation><!-- Mental Health --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nutrition</masterLabel>
+            <translation><!-- Nutrition --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Postpartum Checkup</masterLabel>
+            <translation><!-- Postpartum Checkup --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prenatal</masterLabel>
+            <translation><!-- Prenatal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Preventative</masterLabel>
+            <translation><!-- Preventative --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Routine</masterLabel>
+            <translation><!-- Routine --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Well Child </masterLabel>
+            <translation><!-- Well Child  --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Med Appt Type --></label>
+        <name>BRI_Med_Appt_Type__c</name>
+        <picklistValues>
+            <masterLabel>Dentist</masterLabel>
+            <translation><!-- Dentist --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OBGYN</masterLabel>
+            <translation><!-- OBGYN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PCP</masterLabel>
+            <translation><!-- PCP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Specialist</masterLabel>
+            <translation><!-- Specialist --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WIC</masterLabel>
+            <translation><!-- WIC --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Name --></label>
+        <name>BRI_Name__c</name>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Number --></label>
+        <name>BRI_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other phone --></label>
+        <name>BRI_Other_phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Outcome --></label>
+        <name>BRI_Outcome__c</name>
+    </fields>
+    <fields>
+        <label><!-- Phone Type --></label>
+        <name>BRI_Phone_Type__c</name>
+        <picklistValues>
+            <masterLabel>Home</masterLabel>
+            <translation><!-- Home --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Message Only</masterLabel>
+            <translation><!-- Message Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mobile</masterLabel>
+            <translation><!-- Mobile --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No phone</masterLabel>
+            <translation><!-- No phone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Text only</masterLabel>
+            <translation><!-- Text only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Withheld</masterLabel>
+            <translation><!-- Withheld --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Work</masterLabel>
+            <translation><!-- Work --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Position --></label>
+        <name>BRI_Position__c</name>
+    </fields>
+    <fields>
+        <label><!-- Primary Insurance --></label>
+        <name>BRI_Primary_Insurance__c</name>
+        <picklistValues>
+            <masterLabel>HIP</masterLabel>
+            <translation><!-- HIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicaid</masterLabel>
+            <translation><!-- Medicaid --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicare</masterLabel>
+            <translation><!-- Medicare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Private</masterLabel>
+            <translation><!-- Private --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TRICARE</masterLabel>
+            <translation><!-- TRICARE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Program Within County --></label>
+        <name>BRI_Program_Within_County__c</name>
+    </fields>
+    <fields>
+        <label><!-- Receive Benefits --></label>
+        <name>BRI_Receive_Benefits__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Result --></label>
+        <name>BRI_Result__c</name>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Received Vaccine</masterLabel>
+            <translation><!-- Received Vaccine --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Refused Vaccine</masterLabel>
+            <translation><!-- Refused Vaccine --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Role --></label>
+        <name>BRI_Role__c</name>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Same addr as mob --></label>
+        <name>BRI_Same_addr_as_mob__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Schedule --></label>
+        <name>BRI_Schedule__c</name>
+        <picklistValues>
+            <masterLabel>AAP</masterLabel>
+            <translation><!-- AAP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>none</masterLabel>
+            <translation><!-- none --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Secondary Insurance --></label>
+        <name>BRI_Secondary_Insurance__c</name>
+        <picklistValues>
+            <masterLabel>HIP</masterLabel>
+            <translation><!-- HIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicaid</masterLabel>
+            <translation><!-- Medicaid --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicare</masterLabel>
+            <translation><!-- Medicare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Private</masterLabel>
+            <translation><!-- Private --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TRICARE</masterLabel>
+            <translation><!-- TRICARE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Special Edu Services --></label>
+        <name>BRI_Special_Edu_Services__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Special Need --></label>
+        <name>BRI_Special_Need__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Start --></label>
+        <name>BRI_Start__c</name>
+    </fields>
+    <fields>
+        <label><!-- State ID --></label>
+        <name>BRI_State_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Supervisor Review --></label>
+        <name>BRI_Supervisor_Review__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Type --></label>
+        <name>BRI_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Which Adult --></label>
+        <name>BRI_Which_Adult__c</name>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Why Not Done --></label>
+        <name>BRI_Why_Not_Done__c</name>
+        <picklistValues>
+            <masterLabel>Family Not Available(ALL)</masterLabel>
+            <translation><!-- Family Not Available(ALL) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>In Developmental Service (ASQ:3 Only)</masterLabel>
+            <translation><!-- In Developmental Service (ASQ:3 Only) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MOB not participating in HV (EPDS Only)</masterLabel>
+            <translation><!-- MOB not participating in HV (EPDS Only) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Missed(ALL)</masterLabel>
+            <translation><!-- Missed(ALL) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Refused(ALL)</masterLabel>
+            <translation><!-- Refused(ALL) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Safety Reason</masterLabel>
+            <translation><!-- Safety Reason --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Waived (ASQ:SE Only)</masterLabel>
+            <translation><!-- Waived (ASQ:SE Only) --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Xfer1 --></label>
+        <name>BRI_Xfer1__c</name>
+        <picklistValues>
+            <masterLabel>NO</masterLabel>
+            <translation><!-- NO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YES</masterLabel>
+            <translation><!-- YES --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Xfer2 --></label>
+        <name>BRI_Xfer2__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Zip --></label>
+        <name>BRI_Zip__c</name>
+    </fields>
+    <fields>
+        <label><!-- phone --></label>
+        <name>BRI_phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonAddress --></label>
+        <name>PersonAddress__c</name>
+        <relationshipLabel><!-- Address History --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- PersonEducation --></label>
+        <name>PersonEducation__c</name>
+        <relationshipLabel><!-- Education History --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- PersonEmployee --></label>
+        <name>PersonEmployee__c</name>
+        <relationshipLabel><!-- Employement History --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- PersonFamilyLevel --></label>
+        <name>PersonFamilyLevel__c</name>
+        <relationshipLabel><!-- Family Level History --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- PersonHealthLog --></label>
+        <name>PersonHealthLog__c</name>
+        <relationshipLabel><!-- Health Log History --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- PersonInsurance --></label>
+        <name>PersonInsurance__c</name>
+        <relationshipLabel><!-- Insurance History --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- PersonMaritalStatus --></label>
+        <name>PersonMaritalStatus__c</name>
+        <relationshipLabel><!-- Marital Status History --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- PersonProvider --></label>
+        <name>PersonProvider__c</name>
+        <relationshipLabel><!-- Provider History --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Person FSW --></label>
+        <name>Person_FSW__c</name>
+        <relationshipLabel><!-- FSW History --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Person --></label>
+        <name>Person__c</name>
+        <relationshipLabel><!-- Demographics --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>ADDR layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>DATATUDE</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Demographic Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Educ Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Employ layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>HealthLog Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Insurance Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>MS Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- Address --></label>
+        <name>BRI_Address</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Education --></label>
+        <name>BRI_Education</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Employment --></label>
+        <name>BRI_Employee</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Family Level --></label>
+        <name>BRI_Family_Level</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- HealthLog --></label>
+        <name>BRI_HealthLog</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Insurance --></label>
+        <name>BRI_Insurance</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Marital Status --></label>
+        <name>BRI_Marital_Status</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Provider --></label>
+        <name>BRI_Provider</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- New_Address --></label>
+        <name>New_Address</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_Education --></label>
+        <name>New_Education</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_Employee --></label>
+        <name>New_Employee</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_HealthLog --></label>
+        <name>New_HealthLog</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_Insurance --></label>
+        <name>New_Insurance</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_Marital_Status --></label>
+        <name>New_Marital_Status</name>
+    </webLinks>
+</CustomObjectTranslation>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>DemographicsFamily</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>DemographicsFamilies</value>
+    </caseValues>
+    <fields>
+        <label><!-- Change Date --></label>
+        <name>BRI_Change_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Change Reason --></label>
+        <name>BRI_Change_Reason__c</name>
+        <picklistValues>
+            <masterLabel>Change in Duties</masterLabel>
+            <translation><!-- Change in Duties --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Death</masterLabel>
+            <translation><!-- Death --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Illness</masterLabel>
+            <translation><!-- Illness --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initial Assignment</masterLabel>
+            <translation><!-- Initial Assignment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leave</masterLabel>
+            <translation><!-- Leave --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Left Program/Agency</masterLabel>
+            <translation><!-- Left Program/Agency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Specialist Assigned</masterLabel>
+            <translation><!-- Specialist Assigned --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Supervisor Discreation</masterLabel>
+            <translation><!-- Supervisor Discreation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vacation</masterLabel>
+            <translation><!-- Vacation --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Change --></label>
+        <name>BRI_Change__c</name>
+    </fields>
+    <fields>
+        <label><!-- County Code --></label>
+        <name>BRI_County_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Employement Status --></label>
+        <name>BRI_Employement_Status__c</name>
+        <picklistValues>
+            <masterLabel>Employed Full Time</masterLabel>
+            <translation><!-- Employed Full Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Employed Part Time</masterLabel>
+            <translation><!-- Employed Part Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maternity Leave, Paid, Full Time</masterLabel>
+            <translation><!-- Maternity Leave, Paid, Full Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maternity Leave, Unpaid, Full Time</masterLabel>
+            <translation><!-- Maternity Leave, Unpaid, Full Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maternity Leave, Unpaid, Part Time</masterLabel>
+            <translation><!-- Maternity Leave, Unpaid, Part Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Permanent Disability</masterLabel>
+            <translation><!-- Permanent Disability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployment Seeking Work</masterLabel>
+            <translation><!-- Unemployment Seeking Work --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployment not Seeking Work-Barriers</masterLabel>
+            <translation><!-- Unemployment not Seeking Work-Barriers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployment not Seeking Work-Preference</masterLabel>
+            <translation><!-- Unemployment not Seeking Work-Preference --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployment not Seeking Work-Teen Caregiver</masterLabel>
+            <translation><!-- Unemployment not Seeking Work-Teen Caregiver --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- FSW --></label>
+        <name>BRI_FSW__c</name>
+        <picklistValues>
+            <masterLabel>ABC</masterLabel>
+            <translation><!-- ABC --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Family Level --></label>
+        <name>BRI_Family_Level__c</name>
+        <picklistValues>
+            <masterLabel>1A</masterLabel>
+            <translation><!-- 1A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1B</masterLabel>
+            <translation><!-- 1B --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1C</masterLabel>
+            <translation><!-- 1C --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>II</masterLabel>
+            <translation><!-- II --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>III</masterLabel>
+            <translation><!-- III --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IV</masterLabel>
+            <translation><!-- IV --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NS</masterLabel>
+            <translation><!-- NS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>P1</masterLabel>
+            <translation><!-- P1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SS</masterLabel>
+            <translation><!-- SS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ST</masterLabel>
+            <translation><!-- ST --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>T</masterLabel>
+            <translation><!-- T --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UE</masterLabel>
+            <translation><!-- UE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X1</masterLabel>
+            <translation><!-- X1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X2</masterLabel>
+            <translation><!-- X2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X3</masterLabel>
+            <translation><!-- X3 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Family Number --></label>
+        <name>BRI_Family_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- HouseholdFSW --></label>
+        <name>BRI_HouseholdFSW__c</name>
+        <relationshipLabel><!-- FSW history --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- HouseholdFamilyLevel --></label>
+        <name>BRI_HouseholdFamilyLevel__c</name>
+        <relationshipLabel><!-- Family Level History --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Household --></label>
+        <name>BRI_Household__c</name>
+        <relationshipLabel><!-- Demographics Families --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Program Within County --></label>
+        <name>BRI_Program_Within_County__c</name>
+    </fields>
+    <fields>
+        <label><!-- State Id --></label>
+        <name>BRI_State_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Xfer1 --></label>
+        <name>BRI_Xfer1__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Xfer2 --></label>
+        <name>BRI_Xfer2__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- FSW --></label>
+        <name>FSW__c</name>
+        <relationshipLabel><!-- DemographicsFamilies --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>DATATUDE</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>FSW</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Family Level</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- FL --></label>
+        <name>FL</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- FSW --></label>
+        <name>FSW</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- New_FL --></label>
+        <name>New_FL</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_FSW --></label>
+        <name>New_FSW</name>
+    </webLinks>
+</CustomObjectTranslation>

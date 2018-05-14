@@ -1,0 +1,6 @@
+<aura:component >
+	<p> Lighitning Component Related List for Education Demographics</p>
+    
+    <aura:attribute name="message" type="String" />
+    <p> {!v.message}</p>
+</aura:component>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <actionCalls>
+        <name>EPDS</name>
+        <label>EPDS</label>
+        <locationX>363</locationX>
+        <locationY>244</locationY>
+        <actionName>Contact.NewEPDS</actionName>
+        <actionType>quickAction</actionType>
+        <inputParameters>
+            <name>Blamed_myself_unnecessarily__c</name>
+        </inputParameters>
+        <inputParameters>
+            <name xsi:nil="true"/>
+        </inputParameters>
+        <inputParameters>
+            <name>contextId</name>
+        </inputParameters>
+        <inputParameters>
+            <name>X10_Did_think_of_harming_myself__c</name>
+        </inputParameters>
+        <inputParameters>
+            <name xsi:nil="true"/>
+        </inputParameters>
+        <inputParameters>
+            <name>X4_Anxious_or_worried_for_no_good_reason__c</name>
+        </inputParameters>
+        <inputParameters>
+            <name>X5_Felt_Scared_or_Panicky_for_no_reason__c</name>
+        </inputParameters>
+        <inputParameters>
+            <name>X6_Things_have_been_getting_on_top_of_me__c</name>
+        </inputParameters>
+        <inputParameters>
+            <name>X7_Unhappy_that_I_had_difficulty_to_slee__c</name>
+        </inputParameters>
+        <inputParameters>
+            <name>X8_Felt_sad_or_miserable__c</name>
+        </inputParameters>
+        <inputParameters>
+            <name>X9_So_unhappy_that_I_have_been_crying__c</name>
+        </inputParameters>
+    </actionCalls>
+    <dynamicChoiceSets>
+        <name>EPDS_TGT_Values</name>
+        <dataType>Picklist</dataType>
+        <displayField xsi:nil="true"/>
+        <object xsi:nil="true"/>
+        <picklistField>BRI_TGT_Relation__c</picklistField>
+        <picklistObject>Contact</picklistObject>
+        <sortOrder>Asc</sortOrder>
+    </dynamicChoiceSets>
+    <interviewLabel>EPDS_TGT {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>EPDS_TGT</label>
+    <processType>Flow</processType>
+    <screens>
+        <name>EPDS_Screens</name>
+        <label>EPDS Screens</label>
+        <locationX>366</locationX>
+        <locationY>124</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <connector>
+            <targetReference>EPDS</targetReference>
+        </connector>
+        <fields>
+            <name>TGT_Relation</name>
+            <choiceReferences>EPDS_TGT_Values</choiceReferences>
+            <dataType>String</dataType>
+            <fieldText>TGT Relation</fieldText>
+            <fieldType>DropdownBox</fieldType>
+            <isRequired>false</isRequired>
+        </fields>
+    </screens>
+    <startElementReference>EPDS_Screens</startElementReference>
+</Flow>

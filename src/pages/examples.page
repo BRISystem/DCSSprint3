@@ -1,0 +1,20 @@
+<apex:page standardController="Activity__c">
+ <script>
+    function fun()
+
+{
+
+window.showModalDialog('/apex/newpage');
+
+}
+
+ 
+
+    </script>
+
+<apex:form >
+
+  <apex:commandButton value="Popup"  onclick="fun()" />
+
+</apex:form>
+</apex:page>

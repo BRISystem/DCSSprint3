@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customObject>true</customObject>
+    <description>Region is part of the organization hierarchy.  It is used by CPCS as a grouping of counties served.   Region is a child of Site.</description>
+    <mobileReady>false</mobileReady>
+    <motif>Custom9: Lightning</motif>
+</CustomTab>

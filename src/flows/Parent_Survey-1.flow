@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <interviewLabel>Parent Survey {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Parent Survey</label>
+    <processType>Flow</processType>
+    <recordUpdates>
+        <name>Update_Intake</name>
+        <label>Update Intake</label>
+        <locationX>131</locationX>
+        <locationY>171</locationY>
+        <connector>
+            <targetReference>Success_Message</targetReference>
+        </connector>
+        <filters>
+            <field>Id</field>
+            <operator>EqualTo</operator>
+            <value>
+                <elementReference>IntakeID</elementReference>
+            </value>
+        </filters>
+        <inputAssignments>
+            <field>Adult1_First_Name__c</field>
+            <value>
+                <elementReference>Temp</elementReference>
+            </value>
+        </inputAssignments>
+        <inputAssignments>
+            <field>DOB__c</field>
+            <value>
+                <elementReference>Date_Label</elementReference>
+            </value>
+        </inputAssignments>
+        <object>Intake__c</object>
+    </recordUpdates>
+    <screens>
+        <name>Success_Message</name>
+        <label>Success Message</label>
+        <locationX>352</locationX>
+        <locationY>172</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <fields>
+            <name>MessageSuccessfully</name>
+            <fieldText>Successfully updated</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+    </screens>
+    <screens>
+        <name>Value_of_Intake</name>
+        <label>Value of Intake</label>
+        <locationX>129</locationX>
+        <locationY>25</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <connector>
+            <targetReference>Update_Intake</targetReference>
+        </connector>
+        <fields>
+            <name>SelectedIntake</name>
+            <fieldText>Selected Intake Id is {!IntakeID}</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+        <fields>
+            <name>Temp</name>
+            <dataType>String</dataType>
+            <fieldText>Enter really really longgggggggg label please</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>true</isRequired>
+        </fields>
+        <fields>
+            <name>Date_Label</name>
+            <dataType>Date</dataType>
+            <fieldText>Longgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg Date Label</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>true</isRequired>
+        </fields>
+    </screens>
+    <startElementReference>Value_of_Intake</startElementReference>
+    <variables>
+        <name>IntakeID</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>true</isInput>
+        <isOutput>true</isOutput>
+        <value>
+            <stringValue></stringValue>
+        </value>
+    </variables>
+</Flow>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Feedback</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Feedback</value>
+    </caseValues>
+    <fields>
+        <label><!-- Comments --></label>
+        <name>Comments__c</name>
+    </fields>
+    <fields>
+        <label><!-- Test Script --></label>
+        <name>Test_Script__c</name>
+        <picklistValues>
+            <masterLabel>1.4.1-Site Record Access and Usability</masterLabel>
+            <translation><!-- 1.4.1-Site Record Access and Usability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1.4.2-View Site Associated Information</masterLabel>
+            <translation><!-- 1.4.2-View Site Associated Information --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3.2.1-HOUSEHOLD Record Access &amp; Usability</masterLabel>
+            <translation><!-- 3.2.1-HOUSEHOLD Record Access &amp; Usability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3.2.2-Complete HOUSEHOLD</masterLabel>
+            <translation><!-- 3.2.2-Complete HOUSEHOLD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3.2.3-Complete HOUSEHOLD Associated Records</masterLabel>
+            <translation><!-- 3.2.3-Complete HOUSEHOLD Associated Records --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3.3.1-PERSONS Record Access &amp; Usability</masterLabel>
+            <translation><!-- 3.3.1-PERSONS Record Access &amp; Usability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3.3.2-Complete PERSONS-Adult 1</masterLabel>
+            <translation><!-- 3.3.2-Complete PERSONS-Adult 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3.3.3-Complete PERSONS-Adult 1 Associated Records</masterLabel>
+            <translation><!-- 3.3.3-Complete PERSONS-Adult 1 Associated Records --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3.3.4-Complete PERSONS-Adult 2</masterLabel>
+            <translation><!-- 3.3.4-Complete PERSONS-Adult 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3.3.5-Complete PERSONS-Adult 2 Associated Records</masterLabel>
+            <translation><!-- 3.3.5-Complete PERSONS-Adult 2 Associated Records --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3.3.6-Complete PERSONS-TGT-Child</masterLabel>
+            <translation><!-- 3.3.6-Complete PERSONS-TGT-Child --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3.3.7-Complete PERSONS-TGT-Child Associated Records</masterLabel>
+            <translation><!-- 3.3.7-Complete PERSONS-TGT-Child Associated Records --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3.3.8-Complete PERSONS-Other</masterLabel>
+            <translation><!-- 3.3.8-Complete PERSONS-Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3.3.9-Complete PERSONS-Other Associated Records</masterLabel>
+            <translation><!-- 3.3.9-Complete PERSONS-Other Associated Records --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4.1.1-INTAKE Record Access &amp; Usability</masterLabel>
+            <translation><!-- 4.1.1-INTAKE Record Access &amp; Usability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4.1.2-NEW INTAKE Record</masterLabel>
+            <translation><!-- 4.1.2-NEW INTAKE Record --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4.1.3-Process WIC REFERRAL Intake Record</masterLabel>
+            <translation><!-- 4.1.3-Process WIC REFERRAL Intake Record --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4.2.1-Complete SCREEN</masterLabel>
+            <translation><!-- 4.2.1-Complete SCREEN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4.3.1-Capture CONSENT on REFERRAL / SCREEN</masterLabel>
+            <translation><!-- 4.3.1-Capture CONSENT on REFERRAL / SCREEN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4.4.1-Complete PARENT SURVEY</masterLabel>
+            <translation><!-- 4.4.1-Complete PARENT SURVEY --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4.4.2-Capture CONSENT on PARENT SURVEY</masterLabel>
+            <translation><!-- 4.4.2-Capture CONSENT on PARENT SURVEY --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4.5.1-CONVERT Referral to HOUSEHOLD</masterLabel>
+            <translation><!-- 4.5.1-CONVERT Referral to HOUSEHOLD --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Tester Phone Number --></label>
+        <name>Tester_Phone_Number__c</name>
+    </fields>
+    <nameFieldLabel>Tester Name</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

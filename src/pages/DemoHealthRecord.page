@@ -1,0 +1,18 @@
+<apex:page standardController="Account">
+    <apex:pageBlock >
+     Related lists for {!account.name}:
+    </apex:pageBlock>
+
+    <apex:relatedList title="Demographic" list="BRI_Demographic__c" />
+    <apex:relatedList title=" Assessment" list="Assessment__c "/>
+    <apex:relatedList title="County" list=" County__c"/>
+    <apex:relatedList title="home" list=" Home_Visit__c "/>
+    <apex:relatedList title="Intake" list=" Intake__c"/>
+    <apex:relatedlist title="Insite" list="insite__c"/>
+    
+
+    <apex:relatedList list="Contacts">
+        <apex:facet name="header">welcome</apex:facet>
+    </apex:relatedList>
+
+</apex:page>

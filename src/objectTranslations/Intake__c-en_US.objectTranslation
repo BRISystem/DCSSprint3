@@ -1,0 +1,4216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Intakes</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Intakes</value>
+    </caseValues>
+    <fields>
+        <label><!-- Adult 1 First Name --></label>
+        <name>Adult1_First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 1 Last Name --></label>
+        <name>Adult_1_Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 1 Middle Name --></label>
+        <name>Adult_1_Middle_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 1 Primary Insurance --></label>
+        <name>Adult_1_Primary_Insurance__c</name>
+        <picklistValues>
+            <masterLabel>HIP</masterLabel>
+            <translation><!-- HIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicaid</masterLabel>
+            <translation><!-- Medicaid --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicare</masterLabel>
+            <translation><!-- Medicare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Private</masterLabel>
+            <translation><!-- Private --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TRICARE</masterLabel>
+            <translation><!-- TRICARE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Adult 1 Secondary Insurance --></label>
+        <name>Adult_1_Secondary_Insurance__c</name>
+        <picklistValues>
+            <masterLabel>HIP</masterLabel>
+            <translation><!-- HIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicaid</masterLabel>
+            <translation><!-- Medicaid --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicare</masterLabel>
+            <translation><!-- Medicare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Private</masterLabel>
+            <translation><!-- Private --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TRICARE</masterLabel>
+            <translation><!-- TRICARE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Adult 1 marital Status --></label>
+        <name>Adult_1_marital_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Position --></label>
+        <name>Adult_2_Position__c</name>
+    </fields>
+    <fields>
+        <label><!-- Any Alcohol after Pregnancy Known --></label>
+        <name>Any_Alcohol_after_known_Pregnancy__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Any Complications during Pregnancy --></label>
+        <name>Any_Complication_during_Pregnancy__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Children and families for whom DCS does not currently have an open, on-going case is eligible for Community partner Services. --></help>
+        <label><!-- Any Open/OnGoing Case with DCS? --></label>
+        <name>Any_Open_OnGoing_Case_with_DCS__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Apply Unit Rate For --></label>
+        <name>Apply_Unit_Rate_For__c</name>
+        <picklistValues>
+            <masterLabel>ABC</masterLabel>
+            <translation><!-- ABC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>XYZ</masterLabel>
+            <translation><!-- XYZ --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Assessment Status --></label>
+        <name>Assessment_Status__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- AuthRepDOB --></label>
+        <name>AuthRepDOB__c</name>
+    </fields>
+    <fields>
+        <label><!-- AuthRepFirstName --></label>
+        <name>AuthRepFirstName__c</name>
+    </fields>
+    <fields>
+        <label><!-- AuthRepLastName --></label>
+        <name>AuthRepLastName__c</name>
+    </fields>
+    <fields>
+        <label><!-- Ave Monthly Support --></label>
+        <name>Ave_Mon__c</name>
+    </fields>
+    <fields>
+        <label><!-- Average Education hours Per week --></label>
+        <name>Average_Education_hours_Per_week__c</name>
+    </fields>
+    <fields>
+        <label><!-- Average Hours Per Week --></label>
+        <name>Average_Hours_Per_Week__c</name>
+    </fields>
+    <fields>
+        <label><!-- Average Unpaid hours Childcare --></label>
+        <name>Average_Unpaid_hours_Childcare__c</name>
+    </fields>
+    <fields>
+        <label><!-- 10. Bonding Attachment --></label>
+        <name>BRI_10_Bonding_Attachment__c</name>
+    </fields>
+    <fields>
+        <label><!-- 10. Unknown / Incomplete --></label>
+        <name>BRI_10_Unknown_Incomplete__c</name>
+    </fields>
+    <fields>
+        <label><!-- 10a --></label>
+        <name>BRI_10a__c</name>
+        <picklistValues>
+            <masterLabel>Baby Unwanted / Too Overwhelming</masterLabel>
+            <translation><!-- Baby Unwanted / Too Overwhelming --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medical Problems / Abnormalities</masterLabel>
+            <translation><!-- Medical Problems / Abnormalities --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 1. Unknown / Incomplete --></label>
+        <name>BRI_1_Unknown_Incomplete__c</name>
+        <picklistValues>
+            <masterLabel>Incomplete</masterLabel>
+            <translation><!-- Incomplete --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 2. Unknown / Incomplete --></label>
+        <name>BRI_2_Unknown_Incomplete__c</name>
+    </fields>
+    <fields>
+        <label><!-- 2a --></label>
+        <name>BRI_2a_Multi_Select_Criminal__c</name>
+        <picklistValues>
+            <masterLabel>Criminal</masterLabel>
+            <translation><!-- Criminal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mental Health</masterLabel>
+            <translation><!-- Mental Health --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sustance Abuse</masterLabel>
+            <translation><!-- Sustance Abuse --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 3. Unknown / Incomplete --></label>
+        <name>BRI_3_Unknown_Incomplete__c</name>
+        <picklistValues>
+            <masterLabel>Incomplete</masterLabel>
+            <translation><!-- Incomplete --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 3a. --></label>
+        <name>BRI_3a__c</name>
+        <picklistValues>
+            <masterLabel>CPS</masterLabel>
+            <translation><!-- CPS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Experience with Children</masterLabel>
+            <translation><!-- Experience with Children --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 4. Coping Skills and Support System --></label>
+        <name>BRI_4_Coping_Skills_and_Support_System__c</name>
+    </fields>
+    <fields>
+        <label><!-- 4. Unknown / Incomplete --></label>
+        <name>BRI_4_Unknown_Incomplete__c</name>
+        <picklistValues>
+            <masterLabel>Incomplete</masterLabel>
+            <translation><!-- Incomplete --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 5. Stresses --></label>
+        <name>BRI_5_Stresses__c</name>
+    </fields>
+    <fields>
+        <label><!-- 5. Unknown/Incomplete --></label>
+        <name>BRI_5_Unknown_Incomplete__c</name>
+    </fields>
+    <fields>
+        <label><!-- 5a --></label>
+        <name>BRI_5a__c</name>
+        <picklistValues>
+            <masterLabel>Finances</masterLabel>
+            <translation><!-- Finances --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Housing</masterLabel>
+            <translation><!-- Housing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Relationships</masterLabel>
+            <translation><!-- Relationships --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 6A --></label>
+        <name>BRI_6A_Multi_Select__c</name>
+        <picklistValues>
+            <masterLabel>Afraid</masterLabel>
+            <translation><!-- Afraid --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Causes Fear</masterLabel>
+            <translation><!-- Causes Fear --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hurts People</masterLabel>
+            <translation><!-- Hurts People --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IPV</masterLabel>
+            <translation><!-- IPV --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Police</masterLabel>
+            <translation><!-- Police --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Refuse</masterLabel>
+            <translation><!-- Refuse --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 6. Anger Management --></label>
+        <name>BRI_6_Anger_Management__c</name>
+    </fields>
+    <fields>
+        <label><!-- 6. Unknown / Incomplete --></label>
+        <name>BRI_6_Unknown_Incomplete__c</name>
+        <picklistValues>
+            <masterLabel>Incomplete</masterLabel>
+            <translation><!-- Incomplete --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 7. Exp. of Infant Dev. and Behavior --></label>
+        <name>BRI_7_Exp_of_Infant_Dev_and_Behavior__c</name>
+    </fields>
+    <fields>
+        <label><!-- 7. Unknown / Incomplete --></label>
+        <name>BRI_7_Unknown_Incomplete__c</name>
+    </fields>
+    <fields>
+        <label><!-- 7a --></label>
+        <name>BRI_7a__c</name>
+        <picklistValues>
+            <masterLabel>Crying Baby</masterLabel>
+            <translation><!-- Crying Baby --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No Information/concerns</masterLabel>
+            <translation><!-- No Information/concerns --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unreasonable development expectation</masterLabel>
+            <translation><!-- Unreasonable development expectation --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 8. Plans for Discipline --></label>
+        <name>BRI_8_Plans_for_Discipline__c</name>
+    </fields>
+    <fields>
+        <label><!-- 8. Unknown / Incomplete --></label>
+        <name>BRI_8_Unknown_Incomplete__c</name>
+    </fields>
+    <fields>
+        <label><!-- 8a Plan to use Physical Punishment --></label>
+        <name>BRI_8a_Plan_to_use_Physical_Punishment__c</name>
+    </fields>
+    <fields>
+        <label><!-- 9. Perception of New Infant --></label>
+        <name>BRI_9_Perception_of_New_Infant__c</name>
+    </fields>
+    <fields>
+        <label><!-- 9. Unknown / Incomlete --></label>
+        <name>BRI_9_Unknown_Incomlete__c</name>
+    </fields>
+    <fields>
+        <label><!-- 9a --></label>
+        <name>BRI_9a__c</name>
+        <picklistValues>
+            <masterLabel>Baby More Difficult than other Babies</masterLabel>
+            <translation><!-- Baby More Difficult than other Babies --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Difficult behavior is Intensional</masterLabel>
+            <translation><!-- Difficult behavior is Intensional --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No Positives Mentioned</masterLabel>
+            <translation><!-- No Positives Mentioned --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Address --></label>
+        <name>BRI_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adullt 2 Average hours per week --></label>
+        <name>BRI_Adullt_2_Average_hours_per_week__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Address --></label>
+        <name>BRI_Adult_2_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Average Unpaid Hours Childcare --></label>
+        <name>BRI_Adult_2_Aver_Unpaid_Hours_Childcare__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Avg Education hrs per week --></label>
+        <name>BRI_Adult_2_Avg_Education_hrs_per_week__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 City --></label>
+        <name>BRI_Adult_2_City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Date Of Birth --></label>
+        <name>BRI_Adult_2_Date_Of_Birth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Education Level --></label>
+        <name>BRI_Adult_2_Education_Level__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Employer --></label>
+        <name>BRI_Adult_2_Employer__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Employment Status --></label>
+        <name>BRI_Adult_2_Employment_Status__c</name>
+        <picklistValues>
+            <masterLabel>Employed Full Time</masterLabel>
+            <translation><!-- Employed Full Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Employed Part Time</masterLabel>
+            <translation><!-- Employed Part Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maternity leave, paid, full time</masterLabel>
+            <translation><!-- Maternity leave, paid, full time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maternity  leave, unpaid, full time</masterLabel>
+            <translation><!-- Maternity  leave, unpaid, full time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maternity  leave, unpaid, part time</masterLabel>
+            <translation><!-- Maternity  leave, unpaid, part time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Permanent Disability</masterLabel>
+            <translation><!-- Permanent Disability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Temporary Disability</masterLabel>
+            <translation><!-- Temporary Disability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployed Not Seeking Work-Barriers</masterLabel>
+            <translation><!-- Unemployed Not Seeking Work-Barriers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployed Not Seeking Work-Preference</masterLabel>
+            <translation><!-- Unemployed Not Seeking Work-Preference --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployed Not Seeking Work-Teen Caregiver</masterLabel>
+            <translation><!-- Unemployed Not Seeking Work-Teen Caregiver --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployed Seeking Work</masterLabel>
+            <translation><!-- Unemployed Seeking Work --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Enrolled In School --></label>
+        <name>BRI_Adult_2_Enrolled_In_School__c</name>
+        <picklistValues>
+            <masterLabel>College 2 Year</masterLabel>
+            <translation><!-- College 2 Year --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>College 4 Year</masterLabel>
+            <translation><!-- College 4 Year --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ESL</masterLabel>
+            <translation><!-- ESL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GED Program</masterLabel>
+            <translation><!-- GED Program --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Graduate School</masterLabel>
+            <translation><!-- Graduate School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High/Middle School</masterLabel>
+            <translation><!-- High/Middle School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Enrolled in School</masterLabel>
+            <translation><!-- Not Enrolled in School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vocational College</masterLabel>
+            <translation><!-- Vocational College --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Ethnicity --></label>
+        <name>BRI_Adult_2_Ethnicity__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 First Name --></label>
+        <name>BRI_Adult_2_First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Gender --></label>
+        <name>BRI_Adult_2_Gender__c</name>
+        <picklistValues>
+            <masterLabel>Female</masterLabel>
+            <translation><!-- Female --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Male</masterLabel>
+            <translation><!-- Male --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Involvement Status --></label>
+        <name>BRI_Adult_2_Involvement_Status__c</name>
+        <picklistValues>
+            <masterLabel>Cohabitating</masterLabel>
+            <translation><!-- Cohabitating --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Involved</masterLabel>
+            <translation><!-- Involved --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Involved</masterLabel>
+            <translation><!-- Not Involved --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Language --></label>
+        <name>BRI_Adult_2_Language__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Last Name --></label>
+        <name>BRI_Adult_2_Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Marital Status --></label>
+        <name>BRI_Adult_2_Marital_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Middle Name --></label>
+        <name>BRI_Adult_2_Middle_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Phone Type --></label>
+        <name>BRI_Adult_2_Phone_Type__c</name>
+        <picklistValues>
+            <masterLabel>Home</masterLabel>
+            <translation><!-- Home --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mobile</masterLabel>
+            <translation><!-- Mobile --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Work</masterLabel>
+            <translation><!-- Work --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Phone --></label>
+        <name>BRI_Adult_2_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Primary Insurance --></label>
+        <name>BRI_Adult_2_Primary_Insurance__c</name>
+        <picklistValues>
+            <masterLabel>HIP</masterLabel>
+            <translation><!-- HIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicaid</masterLabel>
+            <translation><!-- Medicaid --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicare</masterLabel>
+            <translation><!-- Medicare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Private</masterLabel>
+            <translation><!-- Private --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TRICARE</masterLabel>
+            <translation><!-- TRICARE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Relationship to Target Child --></label>
+        <name>BRI_Adult_2_Relationship_to_Target_Child__c</name>
+        <picklistValues>
+            <masterLabel>FOB</masterLabel>
+            <translation><!-- FOB --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Grandfather</masterLabel>
+            <translation><!-- Grandfather --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Grandmother</masterLabel>
+            <translation><!-- Grandmother --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Guardian</masterLabel>
+            <translation><!-- Guardian --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MOB</masterLabel>
+            <translation><!-- MOB --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Secondary Insurance --></label>
+        <name>BRI_Adult_2_Secondary_Insurance__c</name>
+        <picklistValues>
+            <masterLabel>HIP</masterLabel>
+            <translation><!-- HIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicaid</masterLabel>
+            <translation><!-- Medicaid --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicare</masterLabel>
+            <translation><!-- Medicare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Private</masterLabel>
+            <translation><!-- Private --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TRICARE</masterLabel>
+            <translation><!-- TRICARE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Social Security Number --></label>
+        <name>BRI_Adult_2_Social_Security_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adult 2 Zipcode --></label>
+        <name>BRI_Adult_2_Zipcode__c</name>
+    </fields>
+    <fields>
+        <label><!-- Archive --></label>
+        <name>BRI_Archive__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Assessment Done --></label>
+        <name>BRI_Assessment_Done__c</name>
+        <picklistValues>
+            <masterLabel>Not within Two Week Window</masterLabel>
+            <translation><!-- Not within Two Week Window --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Within Two Week Window</masterLabel>
+            <translation><!-- Within Two Week Window --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Assessment Duration --></label>
+        <name>BRI_Assessment_Duration__c</name>
+    </fields>
+    <fields>
+        <label><!-- Assessment Time --></label>
+        <name>BRI_Assessment_Time__c</name>
+    </fields>
+    <fields>
+        <label><!-- Attempted Abortion --></label>
+        <name>BRI_Attempted_Abortion__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Birth Status --></label>
+        <name>BRI_Birth_Status__c</name>
+        <picklistValues>
+            <masterLabel>First Birth</masterLabel>
+            <translation><!-- First Birth --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not First Birth</masterLabel>
+            <translation><!-- Not First Birth --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- CFN --></label>
+        <name>BRI_CFN__c</name>
+    </fields>
+    <fields>
+        <label><!-- Referral Source --></label>
+        <name>BRI_CPCS_Referral_Source__c</name>
+        <relationshipLabel><!-- CPCS Referrals --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Referral Type --></label>
+        <name>BRI_CPCS_Referral_Type__c</name>
+        <picklistValues>
+            <masterLabel>Adult Probation</masterLabel>
+            <translation><!-- Adult Probation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Community Agency</masterLabel>
+            <translation><!-- Community Agency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Department of Child Services</masterLabel>
+            <translation><!-- Department of Child Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Faith Based Organization</masterLabel>
+            <translation><!-- Faith Based Organization --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Family / Neighbor</masterLabel>
+            <translation><!-- Family / Neighbor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Healthy Families</masterLabel>
+            <translation><!-- Healthy Families --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Juvenile Probation</masterLabel>
+            <translation><!-- Juvenile Probation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legal System</masterLabel>
+            <translation><!-- Legal System --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medical System</masterLabel>
+            <translation><!-- Medical System --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mental Health Center</masterLabel>
+            <translation><!-- Mental Health Center --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other CPCS Region</masterLabel>
+            <translation><!-- Other CPCS Region --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>School</masterLabel>
+            <translation><!-- School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Self</masterLabel>
+            <translation><!-- Self --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- CPN --></label>
+        <name>BRI_CPN__c</name>
+    </fields>
+    <fields>
+        <label><!-- Child Active/ Inactive --></label>
+        <name>BRI_Child_Active_Inactive__c</name>
+        <picklistValues>
+            <masterLabel>Active</masterLabel>
+            <translation><!-- Active --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Inactive</masterLabel>
+            <translation><!-- Inactive --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Client --></label>
+        <name>BRI_Client__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Clinical High Risk Date --></label>
+        <name>BRI_Clinical_High_Risk_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Clinical High Risk --></label>
+        <name>BRI_Clinical_High_Risk__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Clinical Override --></label>
+        <name>BRI_Clinical_Override__c</name>
+    </fields>
+    <fields>
+        <label><!-- Complete --></label>
+        <name>BRI_Complete__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Consent for SSN Date --></label>
+        <name>BRI_Consent_for_SSN_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- County --></label>
+        <name>BRI_County__c</name>
+        <relationshipLabel><!-- Intakes (County) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Create Household And Persons --></label>
+        <name>BRI_Create_Household_And_Persons__c</name>
+    </fields>
+    <fields>
+        <label><!-- Current Family Level --></label>
+        <name>BRI_Current_Family_Level__c</name>
+        <picklistValues>
+            <masterLabel>1 B</masterLabel>
+            <translation><!-- 1 B --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1C</masterLabel>
+            <translation><!-- 1C --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IA</masterLabel>
+            <translation><!-- IA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>II</masterLabel>
+            <translation><!-- II --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>III</masterLabel>
+            <translation><!-- III --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IV</masterLabel>
+            <translation><!-- IV --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NS</masterLabel>
+            <translation><!-- NS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>P1</masterLabel>
+            <translation><!-- P1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SS</masterLabel>
+            <translation><!-- SS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ST</masterLabel>
+            <translation><!-- ST --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>T</masterLabel>
+            <translation><!-- T --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X1</masterLabel>
+            <translation><!-- X1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X2</masterLabel>
+            <translation><!-- X2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X3</masterLabel>
+            <translation><!-- X3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ue</masterLabel>
+            <translation><!-- ue --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Date Consent For Service Signed --></label>
+        <name>BRI_Date_Consent_For_Service_Signed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date Received --></label>
+        <name>BRI_Date_Received__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date Reviewed --></label>
+        <name>BRI_Date_Reviewed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Disposition After Assessment --></label>
+        <name>BRI_Disposition_After_Assessment__c</name>
+        <picklistValues>
+            <masterLabel>Agreed to Further Contact</masterLabel>
+            <translation><!-- Agreed to Further Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Offered Further Contact</masterLabel>
+            <translation><!-- Not Offered Further Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Refused Further Contact</masterLabel>
+            <translation><!-- Refused Further Contact --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Enrolled In School --></label>
+        <name>BRI_Enrolled_In_School__c</name>
+        <picklistValues>
+            <masterLabel>College 2 Year</masterLabel>
+            <translation><!-- College 2 Year --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>College 4 Year</masterLabel>
+            <translation><!-- College 4 Year --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ESL</masterLabel>
+            <translation><!-- ESL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GED Program</masterLabel>
+            <translation><!-- GED Program --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Graduate School</masterLabel>
+            <translation><!-- Graduate School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High/Middle School</masterLabel>
+            <translation><!-- High/Middle School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Enrolled in School</masterLabel>
+            <translation><!-- Not Enrolled in School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vocational College</masterLabel>
+            <translation><!-- Vocational College --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- FAMILY NUMBER-CR --></label>
+        <name>BRI_FAMILY_NUMBER_CR__c</name>
+    </fields>
+    <fields>
+        <label><!-- FAW --></label>
+        <name>BRI_FAW__c</name>
+    </fields>
+    <fields>
+        <label><!-- FN-COUNTY CODE --></label>
+        <name>BRI_FN_COUNTY_CODE__c</name>
+    </fields>
+    <fields>
+        <label><!-- FSW --></label>
+        <name>BRI_FSW__c</name>
+        <relationshipLabel><!-- Intakes (FSW) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- High Risk --></label>
+        <name>BRI_High_Risk__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YES</masterLabel>
+            <translation><!-- YES --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- History of Abortions --></label>
+        <name>BRI_History_of_Abortions__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- History of Depression --></label>
+        <name>BRI_History_of_Depression__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- History of Psychiatric  Depression --></label>
+        <name>BRI_History_of_Psychiatric_Depression__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Household --></label>
+        <name>BRI_Household__c</name>
+        <relationshipLabel><!-- Parent Survey --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Hx of CAN/had CPS inter. as a child --></label>
+        <name>BRI_Hx_of_CAN_had_CPS_inter_as_a_child__c</name>
+    </fields>
+    <fields>
+        <label><!-- Inad Emergency Contact --></label>
+        <name>BRI_Inad_Emergency_Contact__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 2. Lifestyle Behaviors and Mental Health --></label>
+        <name>BRI_Lifestyle_Behavior_and_Mental_Health__c</name>
+    </fields>
+    <fields>
+        <label><!-- Location Of assessment --></label>
+        <name>BRI_Location_Of_assessment__c</name>
+        <picklistValues>
+            <masterLabel>Home</masterLabel>
+            <translation><!-- Home --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Materials Given --></label>
+        <name>BRI_Materials_Given__c</name>
+    </fields>
+    <fields>
+        <label><!-- No Phone --></label>
+        <name>BRI_No_Phone__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Other Family Code --></label>
+        <name>BRI_Other_Family_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Site&apos;s Assessment --></label>
+        <name>BRI_Other_Site_s_Assessment__c</name>
+    </fields>
+    <fields>
+        <label><!-- 1. Parent&apos;s Childhood Experience --></label>
+        <name>BRI_Parent_s_Childhood_Experience__c</name>
+    </fields>
+    <fields>
+        <label><!-- 3. Parenting Experience --></label>
+        <name>BRI_Parenting_Experience__c</name>
+    </fields>
+    <fields>
+        <label><!-- Partner Unemployment --></label>
+        <name>BRI_Partner_Unemployment__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Program Admission Date --></label>
+        <name>BRI_Program_Admission_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Program Within County --></label>
+        <name>BRI_Program_Within_County__c</name>
+    </fields>
+    <fields>
+        <label><!-- Programme Admission Date --></label>
+        <name>BRI_Programme_Admission_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Receive Benefits --></label>
+        <name>BRI_Receive_Benefits__c</name>
+        <picklistValues>
+            <masterLabel>False</masterLabel>
+            <translation><!-- False --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Referrals --></label>
+        <name>BRI_Referrals__c</name>
+        <relationshipLabel><!-- Referrals --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Region --></label>
+        <name>BRI_Region__c</name>
+        <relationshipLabel><!-- Intakes --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Region --></label>
+        <name>BRI_Regions__c</name>
+        <picklistValues>
+            <masterLabel>REGION 1</masterLabel>
+            <translation><!-- REGION 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 10</masterLabel>
+            <translation><!-- REGION 10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 11</masterLabel>
+            <translation><!-- REGION 11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 12</masterLabel>
+            <translation><!-- REGION 12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 13</masterLabel>
+            <translation><!-- REGION 13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 14</masterLabel>
+            <translation><!-- REGION 14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 15</masterLabel>
+            <translation><!-- REGION 15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 16</masterLabel>
+            <translation><!-- REGION 16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 17</masterLabel>
+            <translation><!-- REGION 17 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 18</masterLabel>
+            <translation><!-- REGION 18 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 2</masterLabel>
+            <translation><!-- REGION 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 3</masterLabel>
+            <translation><!-- REGION 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 4</masterLabel>
+            <translation><!-- REGION 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 5</masterLabel>
+            <translation><!-- REGION 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 6</masterLabel>
+            <translation><!-- REGION 6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 7</masterLabel>
+            <translation><!-- REGION 7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 8</masterLabel>
+            <translation><!-- REGION 8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>REGION 9</masterLabel>
+            <translation><!-- REGION 9 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Safety- Blunt Force Trauma --></label>
+        <name>BRI_Safety_Blunt_Force_Trauma__c</name>
+    </fields>
+    <fields>
+        <label><!-- Safety-Carseat --></label>
+        <name>BRI_Safety_Carseat__c</name>
+    </fields>
+    <fields>
+        <label><!-- Safety- Co sleeping --></label>
+        <name>BRI_Safety_Co_sleeping__c</name>
+    </fields>
+    <fields>
+        <label><!-- Safety- Fire --></label>
+        <name>BRI_Safety_Fire__c</name>
+    </fields>
+    <fields>
+        <label><!-- Safety-PPD --></label>
+        <name>BRI_Safety_PPD__c</name>
+    </fields>
+    <fields>
+        <label><!-- Safety-Poison --></label>
+        <name>BRI_Safety_Poison__c</name>
+    </fields>
+    <fields>
+        <label><!-- Safety-SID/ back to Sleep --></label>
+        <name>BRI_Safety_SID_back_to_Sleep__c</name>
+    </fields>
+    <fields>
+        <label><!-- Safety- Shaken baby --></label>
+        <name>BRI_Safety_Shaken_baby__c</name>
+    </fields>
+    <fields>
+        <label><!-- Safety-Water Temperature --></label>
+        <name>BRI_Safety_Water_Temperature__c</name>
+    </fields>
+    <fields>
+        <label><!-- Safety-Water --></label>
+        <name>BRI_Safety_Water__c</name>
+    </fields>
+    <fields>
+        <label><!-- Safety- Who Is Watching --></label>
+        <name>BRI_Safety_Who_Is_Watching__c</name>
+    </fields>
+    <fields>
+        <label><!-- Screen Status --></label>
+        <name>BRI_Screen_Status__c</name>
+        <picklistValues>
+            <masterLabel>Negative</masterLabel>
+            <translation><!-- Negative --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Positive</masterLabel>
+            <translation><!-- Positive --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Screen Type --></label>
+        <name>BRI_Screen_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Site --></label>
+        <name>BRI_Site__c</name>
+        <picklistValues>
+            <masterLabel>BAUER FAMILY</masterLabel>
+            <translation><!-- BAUER FAMILY --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CHILDREN&apos;S BUREAU</masterLabel>
+            <translation><!-- CHILDREN&apos;S BUREAU --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DUNE BROOK</masterLabel>
+            <translation><!-- DUNE BROOK --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GEMINUS</masterLabel>
+            <translation><!-- GEMINUS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IRELAND</masterLabel>
+            <translation><!-- IRELAND --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NEW HOPE</masterLabel>
+            <translation><!-- NEW HOPE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SCAN</masterLabel>
+            <translation><!-- SCAN --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Specify Referral Source --></label>
+        <name>BRI_Specify_Referral_Source__c</name>
+        <relationshipLabel><!-- Intakes (Specify Referral Source) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Specify Second Referral --></label>
+        <name>BRI_Specify_Second_Referral__c</name>
+        <relationshipLabel><!-- Intakes (Specify Second Referral) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Specify Third Referral --></label>
+        <name>BRI_Specify_Third_Referral__c</name>
+        <relationshipLabel><!-- Intakes (Specify Third Referral) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- State Id --></label>
+        <name>BRI_State_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Survey Result --></label>
+        <name>BRI_Survey_Result__c</name>
+        <picklistValues>
+            <masterLabel>Negative</masterLabel>
+            <translation><!-- Negative --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Positive</masterLabel>
+            <translation><!-- Positive --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- WIC Import Date --></label>
+        <name>BRI_WIC_Import_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- WIC --></label>
+        <name>BRI_WIC__c</name>
+    </fields>
+    <fields>
+        <label><!-- Wanted Adoption --></label>
+        <name>BRI_Wanted_Adoption__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Who Was Present at Interview --></label>
+        <name>BRI_Who_Was_Present_at_the_Interview__c</name>
+        <picklistValues>
+            <masterLabel>Adult 1</masterLabel>
+            <translation><!-- Adult 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Adult 2</masterLabel>
+            <translation><!-- Adult 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Baby</masterLabel>
+            <translation><!-- Baby --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Partner</masterLabel>
+            <translation><!-- Partner --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Why not done? --></label>
+        <name>BRI_Why_not_Done__c</name>
+        <picklistValues>
+            <masterLabel>Safety Reason</masterLabel>
+            <translation><!-- Safety Reason --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- CN --></label>
+        <name>CN__c</name>
+    </fields>
+    <fields>
+        <label><!-- CertStartDate --></label>
+        <name>CertStartDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Child DOB --></label>
+        <name>Child_DOB__c</name>
+    </fields>
+    <fields>
+        <label><!-- Child EDC Date --></label>
+        <name>Child_EDC_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Child Ethnicity --></label>
+        <name>Child_Ethnicity__c</name>
+    </fields>
+    <fields>
+        <label><!-- Child First Name --></label>
+        <name>Child_First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Child Gender --></label>
+        <name>Child_Gender__c</name>
+        <picklistValues>
+            <masterLabel>Female</masterLabel>
+            <translation><!-- Female --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Male</masterLabel>
+            <translation><!-- Male --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Child Last Name --></label>
+        <name>Child_Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Child Middle Name --></label>
+        <name>Child_Middle_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Child Primary Insurance --></label>
+        <name>Child_Primary_Insurance__c</name>
+        <picklistValues>
+            <masterLabel>HIP</masterLabel>
+            <translation><!-- HIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicaid</masterLabel>
+            <translation><!-- Medicaid --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicare</masterLabel>
+            <translation><!-- Medicare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Private</masterLabel>
+            <translation><!-- Private --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tricare</masterLabel>
+            <translation><!-- Tricare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Child Secondary Insurance --></label>
+        <name>Child_Secondary_Insurance__c</name>
+        <picklistValues>
+            <masterLabel>HIP</masterLabel>
+            <translation><!-- HIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicaid</masterLabel>
+            <translation><!-- Medicaid --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medicare</masterLabel>
+            <translation><!-- Medicare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Private</masterLabel>
+            <translation><!-- Private --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tricare</masterLabel>
+            <translation><!-- Tricare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Child Social Security Number --></label>
+        <name>Child_Social_Security_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Child have Regular Health care Provider --></label>
+        <name>Child_have_Regular_Health_care_Provider__c</name>
+        <picklistValues>
+            <masterLabel>Has provider; limited contact</masterLabel>
+            <translation><!-- Has provider; limited contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Has provider; never been seen</masterLabel>
+            <translation><!-- Has provider; never been seen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Has provider; regular contact</masterLabel>
+            <translation><!-- Has provider; regular contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Has provider; use emergency room only</masterLabel>
+            <translation><!-- Has provider; use emergency room only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No Provider - Uses Free Clinic</masterLabel>
+            <translation><!-- No Provider - Uses Free Clinic --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No provider; use emergency room only</masterLabel>
+            <translation><!-- No provider; use emergency room only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Child&apos;s Doctor Name --></label>
+        <name>Child_s_Doctor_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- City --></label>
+        <name>City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Complications during labor/deliver/baby --></label>
+        <name>Complications_during_labor_deliver_baby__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Were there complications during labor/deliver/hospital stay of mother --></help>
+        <label><!-- Complications in labor/deliver/mother --></label>
+        <name>Complications_during_labor_deliver_mothe__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- County --></label>
+        <name>CountyAdress__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Adams</masterLabel>
+            <translation><!-- Adams --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Allen</masterLabel>
+            <translation><!-- Allen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bartholomew</masterLabel>
+            <translation><!-- Bartholomew --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Benton</masterLabel>
+            <translation><!-- Benton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Blackford</masterLabel>
+            <translation><!-- Blackford --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boone</masterLabel>
+            <translation><!-- Boone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Brown</masterLabel>
+            <translation><!-- Brown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Carroll</masterLabel>
+            <translation><!-- Carroll --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cass</masterLabel>
+            <translation><!-- Cass --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Clark</masterLabel>
+            <translation><!-- Clark --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Clay</masterLabel>
+            <translation><!-- Clay --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Clinton</masterLabel>
+            <translation><!-- Clinton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crawford</masterLabel>
+            <translation><!-- Crawford --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Daviess</masterLabel>
+            <translation><!-- Daviess --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DeKalb</masterLabel>
+            <translation><!-- DeKalb --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dearborn</masterLabel>
+            <translation><!-- Dearborn --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Decatur</masterLabel>
+            <translation><!-- Decatur --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Delaware</masterLabel>
+            <translation><!-- Delaware --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dubois</masterLabel>
+            <translation><!-- Dubois --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Elkhart</masterLabel>
+            <translation><!-- Elkhart --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fayette</masterLabel>
+            <translation><!-- Fayette --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Floyd</masterLabel>
+            <translation><!-- Floyd --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fountain</masterLabel>
+            <translation><!-- Fountain --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Franklin</masterLabel>
+            <translation><!-- Franklin --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fulton</masterLabel>
+            <translation><!-- Fulton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gibson</masterLabel>
+            <translation><!-- Gibson --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Grant</masterLabel>
+            <translation><!-- Grant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Greene</masterLabel>
+            <translation><!-- Greene --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hamilton</masterLabel>
+            <translation><!-- Hamilton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hancock</masterLabel>
+            <translation><!-- Hancock --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Harrison</masterLabel>
+            <translation><!-- Harrison --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hendricks</masterLabel>
+            <translation><!-- Hendricks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Henry</masterLabel>
+            <translation><!-- Henry --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Howard</masterLabel>
+            <translation><!-- Howard --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jackson</masterLabel>
+            <translation><!-- Jackson --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jasper</masterLabel>
+            <translation><!-- Jasper --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jay</masterLabel>
+            <translation><!-- Jay --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jefferson</masterLabel>
+            <translation><!-- Jefferson --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jennings</masterLabel>
+            <translation><!-- Jennings --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Johnson</masterLabel>
+            <translation><!-- Johnson --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Know</masterLabel>
+            <translation><!-- Know --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kosciusko</masterLabel>
+            <translation><!-- Kosciusko --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>LA Porte</masterLabel>
+            <translation><!-- LA Porte --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>LaGrange</masterLabel>
+            <translation><!-- LaGrange --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lake</masterLabel>
+            <translation><!-- Lake --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lawrence</masterLabel>
+            <translation><!-- Lawrence --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Madison</masterLabel>
+            <translation><!-- Madison --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Marion</masterLabel>
+            <translation><!-- Marion --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Marshall</masterLabel>
+            <translation><!-- Marshall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Martin</masterLabel>
+            <translation><!-- Martin --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Miami</masterLabel>
+            <translation><!-- Miami --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Monroe</masterLabel>
+            <translation><!-- Monroe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Montgomery</masterLabel>
+            <translation><!-- Montgomery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Morgan</masterLabel>
+            <translation><!-- Morgan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Newton</masterLabel>
+            <translation><!-- Newton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Noble</masterLabel>
+            <translation><!-- Noble --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ohio</masterLabel>
+            <translation><!-- Ohio --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Orange</masterLabel>
+            <translation><!-- Orange --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Owen</masterLabel>
+            <translation><!-- Owen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Parke</masterLabel>
+            <translation><!-- Parke --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Perry</masterLabel>
+            <translation><!-- Perry --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pike</masterLabel>
+            <translation><!-- Pike --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Porter</masterLabel>
+            <translation><!-- Porter --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Posey</masterLabel>
+            <translation><!-- Posey --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pulaski</masterLabel>
+            <translation><!-- Pulaski --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Putnam</masterLabel>
+            <translation><!-- Putnam --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Randolph</masterLabel>
+            <translation><!-- Randolph --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ripley</masterLabel>
+            <translation><!-- Ripley --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rush</masterLabel>
+            <translation><!-- Rush --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Scott</masterLabel>
+            <translation><!-- Scott --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shelby</masterLabel>
+            <translation><!-- Shelby --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spencer</masterLabel>
+            <translation><!-- Spencer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>St.Joseph</masterLabel>
+            <translation><!-- St.Joseph --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Starke</masterLabel>
+            <translation><!-- Starke --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Steuben</masterLabel>
+            <translation><!-- Steuben --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sullivan</masterLabel>
+            <translation><!-- Sullivan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Switzerland</masterLabel>
+            <translation><!-- Switzerland --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tippecanoe</masterLabel>
+            <translation><!-- Tippecanoe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tipton</masterLabel>
+            <translation><!-- Tipton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Union</masterLabel>
+            <translation><!-- Union --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vanderburgh</masterLabel>
+            <translation><!-- Vanderburgh --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vermillion</masterLabel>
+            <translation><!-- Vermillion --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vigo</masterLabel>
+            <translation><!-- Vigo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wabash</masterLabel>
+            <translation><!-- Wabash --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Warren</masterLabel>
+            <translation><!-- Warren --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Warrick</masterLabel>
+            <translation><!-- Warrick --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Washington</masterLabel>
+            <translation><!-- Washington --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wayne</masterLabel>
+            <translation><!-- Wayne --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wells</masterLabel>
+            <translation><!-- Wells --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>White</masterLabel>
+            <translation><!-- White --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Whitely</masterLabel>
+            <translation><!-- Whitely --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>huntington</masterLabel>
+            <translation><!-- huntington --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- County --></label>
+        <name>CountyLookup__c</name>
+        <relationshipLabel><!-- Intakes (County) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- County Of Residence --></label>
+        <name>County_Of_Residence__c</name>
+        <picklistValues>
+            <masterLabel>Marion</masterLabel>
+            <translation><!-- Marion --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- County --></label>
+        <name>County__c</name>
+        <picklistValues>
+            <masterLabel>Adams</masterLabel>
+            <translation><!-- Adams --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Allen</masterLabel>
+            <translation><!-- Allen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bartholomew</masterLabel>
+            <translation><!-- Bartholomew --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Benton</masterLabel>
+            <translation><!-- Benton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Blackford</masterLabel>
+            <translation><!-- Blackford --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boone</masterLabel>
+            <translation><!-- Boone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Brown</masterLabel>
+            <translation><!-- Brown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Carroll</masterLabel>
+            <translation><!-- Carroll --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cass</masterLabel>
+            <translation><!-- Cass --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Clark</masterLabel>
+            <translation><!-- Clark --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Clay</masterLabel>
+            <translation><!-- Clay --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Clinton</masterLabel>
+            <translation><!-- Clinton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crawford</masterLabel>
+            <translation><!-- Crawford --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Daviess</masterLabel>
+            <translation><!-- Daviess --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DeKalb</masterLabel>
+            <translation><!-- DeKalb --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dearborn</masterLabel>
+            <translation><!-- Dearborn --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Decatur</masterLabel>
+            <translation><!-- Decatur --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Delaware</masterLabel>
+            <translation><!-- Delaware --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dubois</masterLabel>
+            <translation><!-- Dubois --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Elkhart</masterLabel>
+            <translation><!-- Elkhart --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fayette</masterLabel>
+            <translation><!-- Fayette --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Floyd</masterLabel>
+            <translation><!-- Floyd --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fountain</masterLabel>
+            <translation><!-- Fountain --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Franklin</masterLabel>
+            <translation><!-- Franklin --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fulton</masterLabel>
+            <translation><!-- Fulton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gibson</masterLabel>
+            <translation><!-- Gibson --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Grant</masterLabel>
+            <translation><!-- Grant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Greene</masterLabel>
+            <translation><!-- Greene --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hamilton</masterLabel>
+            <translation><!-- Hamilton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hancock</masterLabel>
+            <translation><!-- Hancock --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Harrison</masterLabel>
+            <translation><!-- Harrison --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hendricks</masterLabel>
+            <translation><!-- Hendricks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Henry</masterLabel>
+            <translation><!-- Henry --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Howard</masterLabel>
+            <translation><!-- Howard --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jackson</masterLabel>
+            <translation><!-- Jackson --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jasper</masterLabel>
+            <translation><!-- Jasper --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jay</masterLabel>
+            <translation><!-- Jay --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jefferson</masterLabel>
+            <translation><!-- Jefferson --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jennings</masterLabel>
+            <translation><!-- Jennings --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Johnson</masterLabel>
+            <translation><!-- Johnson --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Know</masterLabel>
+            <translation><!-- Know --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kosciusko</masterLabel>
+            <translation><!-- Kosciusko --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>LA Porte</masterLabel>
+            <translation><!-- LA Porte --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>LaGrange</masterLabel>
+            <translation><!-- LaGrange --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lake</masterLabel>
+            <translation><!-- Lake --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lawrence</masterLabel>
+            <translation><!-- Lawrence --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Madison</masterLabel>
+            <translation><!-- Madison --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Marion</masterLabel>
+            <translation><!-- Marion --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Marshall</masterLabel>
+            <translation><!-- Marshall --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Martin</masterLabel>
+            <translation><!-- Martin --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Miami</masterLabel>
+            <translation><!-- Miami --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Monroe</masterLabel>
+            <translation><!-- Monroe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Montgomery</masterLabel>
+            <translation><!-- Montgomery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Morgan</masterLabel>
+            <translation><!-- Morgan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Newton</masterLabel>
+            <translation><!-- Newton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Noble</masterLabel>
+            <translation><!-- Noble --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ohio</masterLabel>
+            <translation><!-- Ohio --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Orange</masterLabel>
+            <translation><!-- Orange --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Owen</masterLabel>
+            <translation><!-- Owen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Parke</masterLabel>
+            <translation><!-- Parke --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Perry</masterLabel>
+            <translation><!-- Perry --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pike</masterLabel>
+            <translation><!-- Pike --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Porter</masterLabel>
+            <translation><!-- Porter --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Posey</masterLabel>
+            <translation><!-- Posey --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pulaski</masterLabel>
+            <translation><!-- Pulaski --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Putnam</masterLabel>
+            <translation><!-- Putnam --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Randolph</masterLabel>
+            <translation><!-- Randolph --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ripley</masterLabel>
+            <translation><!-- Ripley --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rush</masterLabel>
+            <translation><!-- Rush --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Scott</masterLabel>
+            <translation><!-- Scott --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shelby</masterLabel>
+            <translation><!-- Shelby --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spencer</masterLabel>
+            <translation><!-- Spencer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>St.Joseph</masterLabel>
+            <translation><!-- St.Joseph --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Starke</masterLabel>
+            <translation><!-- Starke --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Steuben</masterLabel>
+            <translation><!-- Steuben --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sullivan</masterLabel>
+            <translation><!-- Sullivan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Switzerland</masterLabel>
+            <translation><!-- Switzerland --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tippecanoe</masterLabel>
+            <translation><!-- Tippecanoe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tipton</masterLabel>
+            <translation><!-- Tipton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Union</masterLabel>
+            <translation><!-- Union --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vanderburgh</masterLabel>
+            <translation><!-- Vanderburgh --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vermillion</masterLabel>
+            <translation><!-- Vermillion --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vigo</masterLabel>
+            <translation><!-- Vigo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wabash</masterLabel>
+            <translation><!-- Wabash --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Warren</masterLabel>
+            <translation><!-- Warren --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Warrick</masterLabel>
+            <translation><!-- Warrick --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Washington</masterLabel>
+            <translation><!-- Washington --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wayne</masterLabel>
+            <translation><!-- Wayne --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wells</masterLabel>
+            <translation><!-- Wells --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>White</masterLabel>
+            <translation><!-- White --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Whitely</masterLabel>
+            <translation><!-- Whitely --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>huntington</masterLabel>
+            <translation><!-- huntington --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- DOB --></label>
+        <name>DOB__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date Referral / Screen Closed --></label>
+        <name>Date_Referral_Screen_Closed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date of Consent --></label>
+        <name>Date_of_Consent__c</name>
+    </fields>
+    <fields>
+        <label><!-- Drug during pregnancy --></label>
+        <name>Drug_during_pregnancy__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- EDC --></label>
+        <name>EDC__c</name>
+    </fields>
+    <fields>
+        <label><!-- Earnings --></label>
+        <name>Earnings__c</name>
+    </fields>
+    <fields>
+        <label><!-- Education level --></label>
+        <name>Education_level__c</name>
+        <picklistValues>
+            <masterLabel>8th Grade or less</masterLabel>
+            <translation><!-- 8th Grade or less --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Certificate of High School Completion</masterLabel>
+            <translation><!-- Certificate of High School Completion --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Employed Full Time</masterLabel>
+            <translation><!-- Employed Full Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Four Year College Degree</masterLabel>
+            <translation><!-- Four Year College Degree --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GED</masterLabel>
+            <translation><!-- GED --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Graduate Degree</masterLabel>
+            <translation><!-- Graduate Degree --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High School Graduate</masterLabel>
+            <translation><!-- High School Graduate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Some College</masterLabel>
+            <translation><!-- Some College --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Some High School</masterLabel>
+            <translation><!-- Some High School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Technical / Certification</masterLabel>
+            <translation><!-- Technical / Certification --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Two Year Degree</masterLabel>
+            <translation><!-- Two Year Degree --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Education under 12 years --></label>
+        <name>Education_under_12_years__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Employer --></label>
+        <name>Employer__c</name>
+    </fields>
+    <fields>
+        <label><!-- Emplyoment Status --></label>
+        <name>Emplyoment_Status__c</name>
+        <picklistValues>
+            <masterLabel>Employed Full Time</masterLabel>
+            <translation><!-- Employed Full Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Employed Part Time</masterLabel>
+            <translation><!-- Employed Part Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maternity leave, paid, full time</masterLabel>
+            <translation><!-- Maternity leave, paid, full time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maternity  leave, unpaid, full time</masterLabel>
+            <translation><!-- Maternity  leave, unpaid, full time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maternity  leave, unpaid, part time</masterLabel>
+            <translation><!-- Maternity  leave, unpaid, part time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Permanent Disability</masterLabel>
+            <translation><!-- Permanent Disability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Temporary Disability</masterLabel>
+            <translation><!-- Temporary Disability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployed Not Seeking Work-Barriers</masterLabel>
+            <translation><!-- Unemployed Not Seeking Work-Barriers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployed Not Seeking Work-Preference</masterLabel>
+            <translation><!-- Unemployed Not Seeking Work-Preference --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployed Not Seeking Work-Teen Caregiver</masterLabel>
+            <translation><!-- Unemployed Not Seeking Work-Teen Caregiver --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployed Seeking Work</masterLabel>
+            <translation><!-- Unemployed Seeking Work --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Encounter Type --></label>
+        <name>Encounter_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Ethnicity --></label>
+        <name>Ethnicity__c</name>
+    </fields>
+    <fields>
+        <label><!-- ExpDeliDate --></label>
+        <name>ExpDeliDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- FAMILY NUMBER-CR --></label>
+        <name>FAMILY_NUMBER_CR__c</name>
+    </fields>
+    <fields>
+        <label><!-- FAW --></label>
+        <name>FAW__c</name>
+    </fields>
+    <fields>
+        <label><!-- FN-COUNTY CODE --></label>
+        <name>FN_COUNTY_CODE__c</name>
+    </fields>
+    <fields>
+        <label><!-- FN --></label>
+        <name>FN__c</name>
+    </fields>
+    <fields>
+        <label><!-- FOB Actual Interview --></label>
+        <name>FOB_Actual_Interview__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- FSW --></label>
+        <name>FSW__c</name>
+    </fields>
+    <fields>
+        <label><!-- Family Level Change Date --></label>
+        <name>Family_Level_Change_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- First Birth? --></label>
+        <name>First_Birth__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Funding Source --></label>
+        <name>Funding_Source__c</name>
+        <picklistValues>
+            <masterLabel>MIEC</masterLabel>
+            <translation><!-- MIEC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>State HF</masterLabel>
+            <translation><!-- State HF --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TANF/MOE</masterLabel>
+            <translation><!-- TANF/MOE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Title 20</masterLabel>
+            <translation><!-- Title 20 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Gender --></label>
+        <name>Gender__c</name>
+        <picklistValues>
+            <masterLabel>Female</masterLabel>
+            <translation><!-- Female --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Male</masterLabel>
+            <translation><!-- Male --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Gest. Age --></label>
+        <name>Gest_Age__c</name>
+        <picklistValues>
+            <masterLabel>22 weeks</masterLabel>
+            <translation><!-- 22 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>23 weeks</masterLabel>
+            <translation><!-- 23 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>24 weeks</masterLabel>
+            <translation><!-- 24 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>25 weeks</masterLabel>
+            <translation><!-- 25 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>26 weeks</masterLabel>
+            <translation><!-- 26 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>27 weeks</masterLabel>
+            <translation><!-- 27 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>28 weeks</masterLabel>
+            <translation><!-- 28 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>29 weeks</masterLabel>
+            <translation><!-- 29 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>30 weeks</masterLabel>
+            <translation><!-- 30 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>31 weeks</masterLabel>
+            <translation><!-- 31 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>32 weeks</masterLabel>
+            <translation><!-- 32 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>33 weeks</masterLabel>
+            <translation><!-- 33 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>34 weeks</masterLabel>
+            <translation><!-- 34 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>35 weeks</masterLabel>
+            <translation><!-- 35 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>36 weeks</masterLabel>
+            <translation><!-- 36 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>37 weeks</masterLabel>
+            <translation><!-- 37 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>38 weeks</masterLabel>
+            <translation><!-- 38 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>39 weeks</masterLabel>
+            <translation><!-- 39 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>40 Weeks</masterLabel>
+            <translation><!-- 40 Weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>41 weeks</masterLabel>
+            <translation><!-- 41 weeks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>42 weeks </masterLabel>
+            <translation><!-- 42 weeks  --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>unknown</masterLabel>
+            <translation><!-- unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Families that do not meet the criteria for Healthy Families participation, or if Healthy Families is at capacity, those families needing services may be referred to Community Partners. --></help>
+        <label><!-- Healthy Families Participation --></label>
+        <name>Healthy_Families_Participation__c</name>
+        <picklistValues>
+            <masterLabel>Healthy Family is at capacity</masterLabel>
+            <translation><!-- Healthy Family is at capacity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Applicable</masterLabel>
+            <translation><!-- Not Applicable --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Eligible</masterLabel>
+            <translation><!-- Not Eligible --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- History of / Current Psychiatric abuse --></label>
+        <name>History_of_Current_Psychiatric_abuse__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- History of/ Current Substance abuse --></label>
+        <name>History_of_Current_Substance_abuse__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Home Assessment --></label>
+        <name>Home_Assessment__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Hospital Assessment --></label>
+        <name>Hospital_Assessment__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- House Hold Id --></label>
+        <name>House_Hold_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Inactive Date --></label>
+        <name>Inactive_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Inactive Reason --></label>
+        <name>Inactive_Reason__c</name>
+    </fields>
+    <fields>
+        <help><!-- Include WIC,TANF or Medicaid eligible --></help>
+        <label><!-- Inadequate Income --></label>
+        <name>Inadequate_Income__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- InultTalkDownYou --></label>
+        <name>InultTalkDownYou__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is Deceased --></label>
+        <name>Is_Deceased__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- If the Juvenile Probation Department has an open case on a child, and that child is placed outside of the home, the family can receive Community Partners services if there are other children in the home. --></help>
+        <label><!-- Juven Prob Dep has open case on child? --></label>
+        <name>Juven_Prob_Dep_has_open_case_on_child__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Applicable</masterLabel>
+            <translation><!-- Not Applicable --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes, Child is Placed Outside of the Home, There are no other Children in Home</masterLabel>
+            <translation><!-- Yes, Child is Placed Outside of the Home, There are no other Children in Home --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes, Child is Placed Outside of the Home, There are other Children in Home</masterLabel>
+            <translation><!-- Yes, Child is Placed Outside of the Home, There are other Children in Home --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes, Child is with Family</masterLabel>
+            <translation><!-- Yes, Child is with Family --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Languages Spoken in home --></label>
+        <name>Languages_Spoken_At_Home__c</name>
+    </fields>
+    <fields>
+        <label><!-- FAW --></label>
+        <name>Lookup_FAW__c</name>
+        <relationshipLabel><!-- Intakes (FAW) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- MOB have prenatal care? --></label>
+        <name>MOB_have_prenatal_care__c</name>
+        <picklistValues>
+            <masterLabel>Has Provider – Sporadic Contact</masterLabel>
+            <translation><!-- Has Provider – Sporadic Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Has Provider- regular contact</masterLabel>
+            <translation><!-- Has Provider- regular contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No Provider</masterLabel>
+            <translation><!-- No Provider --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>On Medicaid Wait</masterLabel>
+            <translation><!-- On Medicaid Wait --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Did MOB got regular checkups and PAP smears  before getting pregnant. --></help>
+        <label><!-- MOB got regular checkups and PAP  smears --></label>
+        <name>MOb_got_regular_checkups_and_PAP__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Mach C DOB --></label>
+        <name>Mach_C_DOB__c</name>
+    </fields>
+    <fields>
+        <label><!-- Marion Program --></label>
+        <name>Marion_Program__c</name>
+    </fields>
+    <fields>
+        <label><!-- Marital Status --></label>
+        <name>Marital_Status__c</name>
+        <picklistValues>
+            <masterLabel>Divorced</masterLabel>
+            <translation><!-- Divorced --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Living with Partner</masterLabel>
+            <translation><!-- Living with Partner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Married</masterLabel>
+            <translation><!-- Married --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Separated</masterLabel>
+            <translation><!-- Separated --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Single</masterLabel>
+            <translation><!-- Single --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Widowed</masterLabel>
+            <translation><!-- Widowed --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Marital or Family Problems --></label>
+        <name>Marital_or_Family_Problems__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Match A DOB --></label>
+        <name>Match_A_DOB__c</name>
+    </fields>
+    <fields>
+        <label><!-- Match A First Name --></label>
+        <name>Match_A_First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Match A Last Name --></label>
+        <name>Match_A_Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Match EDC Date --></label>
+        <name>Match_EDC_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Match T First Name --></label>
+        <name>Match_T_First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Match T Last Name --></label>
+        <name>Match_T_Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Memo --></label>
+        <name>Memo__c</name>
+    </fields>
+    <fields>
+        <label><!-- Mother began prenatal care at Which Week --></label>
+        <name>Mother_began_prenatal_care_at_Which_Week__c</name>
+        <picklistValues>
+            <masterLabel>6 Weeks</masterLabel>
+            <translation><!-- 6 Weeks --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Multi Number --></label>
+        <name>Multi_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Multi Sequence --></label>
+        <name>Multi_Sequence__c</name>
+    </fields>
+    <fields>
+        <label><!-- Name --></label>
+        <name>Name__c</name>
+    </fields>
+    <fields>
+        <help><!-- No/ limited use of Alcohol prior to pregnancy. --></help>
+        <label><!-- No/ limited use of Alcohol --></label>
+        <name>No_limited_use_of_Alcohol__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Number --></label>
+        <name>Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Organizational Unit --></label>
+        <name>Organizational_Unit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Assessment --></label>
+        <name>Other_Assessment__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Other Phone Type --></label>
+        <name>Other_Phone_Type__c</name>
+        <picklistValues>
+            <masterLabel>Home</masterLabel>
+            <translation><!-- Home --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Message Only</masterLabel>
+            <translation><!-- Message Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mobile</masterLabel>
+            <translation><!-- Mobile --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No Phone</masterLabel>
+            <translation><!-- No Phone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Text Only</masterLabel>
+            <translation><!-- Text Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Withheld</masterLabel>
+            <translation><!-- Withheld --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Work</masterLabel>
+            <translation><!-- Work --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Other Phone --></label>
+        <name>Other_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Site Assessment --></label>
+        <name>Other_Site_Assessment__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- PN --></label>
+        <name>PN__c</name>
+    </fields>
+    <fields>
+        <label><!-- Parent Survey --></label>
+        <name>ParentSurvey__c</name>
+        <relationshipLabel><!-- Parent Survey Questions --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Parent Status --></label>
+        <name>Parent_Status__c</name>
+        <picklistValues>
+            <masterLabel>Parent Survey Complete</masterLabel>
+            <translation><!-- Parent Survey Complete --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pending Parent Survey</masterLabel>
+            <translation><!-- Pending Parent Survey --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Parental Status --></label>
+        <name>Parental_Status__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Person Type --></label>
+        <name>Person_Type__c</name>
+        <picklistValues>
+            <masterLabel>Adult 1</masterLabel>
+            <translation><!-- Adult 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Adult 2</masterLabel>
+            <translation><!-- Adult 2 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Phone No --></label>
+        <name>Phone_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- Phone Type --></label>
+        <name>Phone_Type__c</name>
+        <picklistValues>
+            <masterLabel>Home</masterLabel>
+            <translation><!-- Home --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Message Only</masterLabel>
+            <translation><!-- Message Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mobile</masterLabel>
+            <translation><!-- Mobile --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No Phone</masterLabel>
+            <translation><!-- No Phone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Text Only</masterLabel>
+            <translation><!-- Text Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Withheld</masterLabel>
+            <translation><!-- Withheld --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Work</masterLabel>
+            <translation><!-- Work --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- PhysicallyHurtYou --></label>
+        <name>PhysicallyHurtYou__c</name>
+    </fields>
+    <fields>
+        <label><!-- Position --></label>
+        <name>Position__c</name>
+    </fields>
+    <fields>
+        <label><!-- Pregnancy Status --></label>
+        <name>Pregnancy_Status__c</name>
+        <picklistValues>
+            <masterLabel>Postnatal</masterLabel>
+            <translation><!-- Postnatal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prenatal</masterLabel>
+            <translation><!-- Prenatal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Primary Income is SSDI --></label>
+        <name>Primary_Income_is_SSDI__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Prior to Pregnancy no Drug use --></label>
+        <name>Prior_to_Pregnancy_no_Drugs_use__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- 7 or more per week OR 3 or more in occassion --></help>
+        <label><!-- Alcohol abuse Prior to Pregnancy --></label>
+        <name>Prior_to_pregnancy__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Program Type --></label>
+        <name>Program_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Reason not Screened or Assessed --></label>
+        <name>Reason_not_Screened_or_Assessed__c</name>
+        <picklistValues>
+            <masterLabel>Aborted/Miscarried</masterLabel>
+            <translation><!-- Aborted/Miscarried --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Adoption</masterLabel>
+            <translation><!-- Adoption --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Already Being Served by HF site</masterLabel>
+            <translation><!-- Already Being Served by HF site --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CPS Removal</masterLabel>
+            <translation><!-- CPS Removal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Completed or &apos;Enrolled in &apos;  HFI Previously</masterLabel>
+            <translation><!-- Completed or &apos;Enrolled in &apos;  HFI Previously --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Duplicate Screen/Referral</masterLabel>
+            <translation><!-- Duplicate Screen/Referral --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Family Not Available (All)</masterLabel>
+            <translation><!-- Family Not Available (All) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fetal/infant death</masterLabel>
+            <translation><!-- Fetal/infant death --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Illness/Death of Parent</masterLabel>
+            <translation><!-- Illness/Death of Parent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>In Process</masterLabel>
+            <translation><!-- In Process --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Insufficient staff</masterLabel>
+            <translation><!-- Insufficient staff --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lack of Capacity</masterLabel>
+            <translation><!-- Lack of Capacity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Language Barrier</masterLabel>
+            <translation><!-- Language Barrier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Missed/Unable to Contact</masterLabel>
+            <translation><!-- Missed/Unable to Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Moved</masterLabel>
+            <translation><!-- Moved --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Negative Screen</masterLabel>
+            <translation><!-- Negative Screen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Enough Information to Contact</masterLabel>
+            <translation><!-- Not Enough Information to Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Outside Priority Plan</masterLabel>
+            <translation><!-- Outside Priority Plan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Outside Target Population</masterLabel>
+            <translation><!-- Outside Target Population --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Referred for Assessment at other site</masterLabel>
+            <translation><!-- Referred for Assessment at other site --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Refused</masterLabel>
+            <translation><!-- Refused --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Safety Concern</masterLabel>
+            <translation><!-- Safety Concern --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Too Late to Assess</masterLabel>
+            <translation><!-- Too Late to Assess --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unable to determine TANF Eligibility</masterLabel>
+            <translation><!-- Unable to determine TANF Eligibility --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WIC Baby Referral</masterLabel>
+            <translation><!-- WIC Baby Referral --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Referral --></label>
+        <name>Referral__c</name>
+        <relationshipLabel><!-- Parent Survey --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Referral source --></label>
+        <name>Referral_source__c</name>
+    </fields>
+    <fields>
+        <help><!-- Families that have been referred by a community resource or who self refer due in order that family functioning can be improved and child abuse and neglect prevented --></help>
+        <label><!-- Referred By --></label>
+        <name>Referred_By__c</name>
+        <picklistValues>
+            <masterLabel>Community Resource</masterLabel>
+            <translation><!-- Community Resource --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Self Refer</masterLabel>
+            <translation><!-- Self Refer --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Refferal Date --></label>
+        <name>Refferal_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- RefuseAnswer --></label>
+        <name>RefuseAnswer__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Relationship to Target Child --></label>
+        <name>Relationship_to_Target_Child__c</name>
+        <picklistValues>
+            <masterLabel>MOB</masterLabel>
+            <translation><!-- MOB --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- SN --></label>
+        <name>SN__c</name>
+    </fields>
+    <fields>
+        <label><!-- Safety Plan --></label>
+        <name>Safety_Plan__c</name>
+        <picklistValues>
+            <masterLabel>Safety Plan Reviewed</masterLabel>
+            <translation><!-- Safety Plan Reviewed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Safety plan Refused</masterLabel>
+            <translation><!-- Safety plan Refused --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Safety plan completed</masterLabel>
+            <translation><!-- Safety plan completed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Safety plan given</masterLabel>
+            <translation><!-- Safety plan given --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- ScreamOrCurse --></label>
+        <name>ScreamOrCurse__c</name>
+    </fields>
+    <fields>
+        <label><!-- ScreenResult --></label>
+        <name>ScreenResult__c</name>
+    </fields>
+    <fields>
+        <label><!-- Screen Completed Date --></label>
+        <name>Screen_Completed_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Screen Duration --></label>
+        <name>Screen_Duration__c</name>
+    </fields>
+    <fields>
+        <label><!-- Screen Time --></label>
+        <name>Screen_Time__c</name>
+    </fields>
+    <fields>
+        <label><!-- Screened Site --></label>
+        <name>Screened_Site__c</name>
+        <picklistValues>
+            <masterLabel>Screened at  this Site</masterLabel>
+            <translation><!-- Screened at  this Site --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Screened at other HF site</masterLabel>
+            <translation><!-- Screened at other HF site --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Second Referral --></label>
+        <name>Second_Referral__c</name>
+        <picklistValues>
+            <masterLabel>Community Partners</masterLabel>
+            <translation><!-- Community Partners --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HF Participant</masterLabel>
+            <translation><!-- HF Participant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Healthcare Provider</masterLabel>
+            <translation><!-- Healthcare Provider --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hospital</masterLabel>
+            <translation><!-- Hospital --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other HF Program</masterLabel>
+            <translation><!-- Other HF Program --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>School</masterLabel>
+            <translation><!-- School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Self</masterLabel>
+            <translation><!-- Self --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Social Service Agency</masterLabel>
+            <translation><!-- Social Service Agency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WIC Sites</masterLabel>
+            <translation><!-- WIC Sites --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YSB</masterLabel>
+            <translation><!-- YSB --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- ServicesITEID --></label>
+        <name>ServicesITEID__c</name>
+    </fields>
+    <fields>
+        <label><!-- ServicesITEName --></label>
+        <name>ServicesITEName__c</name>
+    </fields>
+    <fields>
+        <label><!-- Single --></label>
+        <name>Single__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Site --></label>
+        <name>SiteLookup__c</name>
+        <relationshipLabel><!-- Intakes --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Smoking during this Pregnancy --></label>
+        <name>Smoking_during_this_Pregnancy__c</name>
+        <picklistValues>
+            <masterLabel>Mom did not smoke</masterLabel>
+            <translation><!-- Mom did not smoke --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mom quit smoking</masterLabel>
+            <translation><!-- Mom quit smoking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mom reduced smoking</masterLabel>
+            <translation><!-- Mom reduced smoking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mom smoked</masterLabel>
+            <translation><!-- Mom smoked --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Social Security Number --></label>
+        <name>Social_Security_Number__c</name>
+    </fields>
+    <fields>
+        <help><!-- Specify the complications during labor/ deliver/ hospital stay for mother --></help>
+        <label><!-- Specify Complications Of Mother --></label>
+        <name>Specify_Complications_Of_Mother__c</name>
+    </fields>
+    <fields>
+        <label><!-- Specify Complications during pregnancy --></label>
+        <name>Specify_Complications_during_pregnancy__c</name>
+    </fields>
+    <fields>
+        <help><!-- Specify the complications during labor/ deliver/ hospital stay for baby --></help>
+        <label><!-- Specify Complications of baby --></label>
+        <name>Specify_Complications_of_baby__c</name>
+    </fields>
+    <fields>
+        <label><!-- Stage --></label>
+        <name>Stage__c</name>
+        <picklistValues>
+            <masterLabel>Parent Survey</masterLabel>
+            <translation><!-- Parent Survey --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Referrral/Screen</masterLabel>
+            <translation><!-- Referrral/Screen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Survey Question</masterLabel>
+            <translation><!-- Survey Question --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Start Date --></label>
+        <name>Start_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- State Id --></label>
+        <name>State_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Parent Survey Negative</masterLabel>
+            <translation><!-- Parent Survey Negative --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pending Consent</masterLabel>
+            <translation><!-- Pending Consent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pending Parent Survey</masterLabel>
+            <translation><!-- Pending Parent Survey --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pending Screen</masterLabel>
+            <translation><!-- Pending Screen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Screen Complete</masterLabel>
+            <translation><!-- Screen Complete --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Screen Negative</masterLabel>
+            <translation><!-- Screen Negative --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 10 --></label>
+        <name>Substance_10__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 11 --></label>
+        <name>Substance_11__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 1 --></label>
+        <name>Substance_1__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 2 --></label>
+        <name>Substance_2__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 3 --></label>
+        <name>Substance_3__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 4 --></label>
+        <name>Substance_4__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 5 --></label>
+        <name>Substance_5__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 6 --></label>
+        <name>Substance_6__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 7a --></label>
+        <name>Substance_7a__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 7b --></label>
+        <name>Substance_7b__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 7c --></label>
+        <name>Substance_7c__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 7d --></label>
+        <name>Substance_7d__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 8 --></label>
+        <name>Substance_8__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Substance 9 --></label>
+        <name>Substance_9__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Support System/Lifeline(family,friends) --></label>
+        <name>Support_System_Lifeline_family_friends__c</name>
+    </fields>
+    <fields>
+        <label><!-- Survey Created --></label>
+        <name>Survey_Created__c</name>
+    </fields>
+    <fields>
+        <label><!-- TANF/MOE --></label>
+        <name>TANF_MOE__c</name>
+    </fields>
+    <fields>
+        <label><!-- Termination Page --></label>
+        <name>Termination_Page__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- TestMonth --></label>
+        <name>TestMonth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Third Referral --></label>
+        <name>Third_Referral__c</name>
+        <picklistValues>
+            <masterLabel>Community Partners</masterLabel>
+            <translation><!-- Community Partners --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HF Participant</masterLabel>
+            <translation><!-- HF Participant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Healthcare Provider</masterLabel>
+            <translation><!-- Healthcare Provider --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hospital</masterLabel>
+            <translation><!-- Hospital --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other HF Program</masterLabel>
+            <translation><!-- Other HF Program --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>School</masterLabel>
+            <translation><!-- School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Self</masterLabel>
+            <translation><!-- Self --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Social Service Agency</masterLabel>
+            <translation><!-- Social Service Agency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WIC Sites</masterLabel>
+            <translation><!-- WIC Sites --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YSB</masterLabel>
+            <translation><!-- YSB --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Total Score --></label>
+        <name>Total_Score__c</name>
+    </fields>
+    <fields>
+        <label><!-- Two Week Window status --></label>
+        <name>Two_Week_Window_status__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Unstable Housing --></label>
+        <name>Unstable_Housing__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Update Number --></label>
+        <name>Update_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- User Ext --></label>
+        <name>UserLookupExt__c</name>
+        <relationshipLabel><!-- Intakes --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Was there a live birth --></label>
+        <name>Was_there_a_live_birth__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Week(s) Adjustment --></label>
+        <name>Week_s_Adjustment__c</name>
+        <picklistValues>
+            <masterLabel>0</masterLabel>
+            <translation><!-- 0 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Xfer1 --></label>
+        <name>Xfer1__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Xfer2 --></label>
+        <name>Xfer2__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Zip Code --></label>
+        <name>Zip_Code__c</name>
+    </fields>
+    <layouts>
+        <layout>Admin Layout</layout>
+        <sections>
+            <label><!-- Adult 1 --></label>
+            <section>Adult 1</section>
+        </sections>
+        <sections>
+            <label><!-- Child --></label>
+            <section>Child</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- RSN --></label>
+            <section>RSN</section>
+        </sections>
+        <sections>
+            <label><!-- Screen --></label>
+            <section>Screen</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CPCS Parent Survey Layout</layout>
+        <sections>
+            <label><!-- Adult 1 additional information --></label>
+            <section>Adult 1 additional information</section>
+        </sections>
+        <sections>
+            <label><!-- Adult 2 Demographics --></label>
+            <section>Adult 2 Demographics</section>
+        </sections>
+        <sections>
+            <label><!-- Adult 2 additional information --></label>
+            <section>Adult 2 additional information</section>
+        </sections>
+        <sections>
+            <label><!-- Child Additional Information --></label>
+            <section>Child Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Child Demographics --></label>
+            <section>Child Demographics</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Parent Survey Details --></label>
+            <section>Parent Survey Details</section>
+        </sections>
+        <sections>
+            <label><!-- Parent survey Form --></label>
+            <section>Parent survey Form</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CPCS Referral / Screen</layout>
+        <sections>
+            <label><!-- Adult 1 --></label>
+            <section>Adult 1</section>
+        </sections>
+        <sections>
+            <label><!-- Child --></label>
+            <section>Child</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- New Section --></label>
+            <section>New Section</section>
+        </sections>
+        <sections>
+            <label><!-- RSN --></label>
+            <section>RSN</section>
+        </sections>
+        <sections>
+            <label><!-- Screen --></label>
+            <section>Screen</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>DATATUDE</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>HFI Referral / Screen</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Child --></label>
+            <section>Child</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- RSN --></label>
+            <section>RSN</section>
+        </sections>
+        <sections>
+            <label><!-- Record Assignment --></label>
+            <section>Record Assignment</section>
+        </sections>
+        <sections>
+            <label><!-- Referral / Screen Details --></label>
+            <section>Referral / Screen Details</section>
+        </sections>
+        <sections>
+            <label><!-- Screen --></label>
+            <section>Screen</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Parent Survey Layout</layout>
+        <sections>
+            <label><!-- Adult 1 additional information --></label>
+            <section>Adult 1 additional information</section>
+        </sections>
+        <sections>
+            <label><!-- Adult 2 Demographics --></label>
+            <section>Adult 2 Demographics</section>
+        </sections>
+        <sections>
+            <label><!-- Adult 2 additional information --></label>
+            <section>Adult 2 additional information</section>
+        </sections>
+        <sections>
+            <label><!-- Child Additional Information --></label>
+            <section>Child Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Child Demographics --></label>
+            <section>Child Demographics</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Parent Survey Details --></label>
+            <section>Parent Survey Details</section>
+        </sections>
+        <sections>
+            <label><!-- Parent survey Form --></label>
+            <section>Parent survey Form</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Survey Questions Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Survey Question 1 --></label>
+            <section>Survey Question 1</section>
+        </sections>
+        <sections>
+            <label><!-- Survey Question 10 --></label>
+            <section>Survey Question 10</section>
+        </sections>
+        <sections>
+            <label><!-- Survey Question 2 --></label>
+            <section>Survey Question 2</section>
+        </sections>
+        <sections>
+            <label><!-- Survey Question 3 --></label>
+            <section>Survey Question 3</section>
+        </sections>
+        <sections>
+            <label><!-- Survey Question 4 --></label>
+            <section>Survey Question 4</section>
+        </sections>
+        <sections>
+            <label><!-- Survey Question 5 --></label>
+            <section>Survey Question 5</section>
+        </sections>
+        <sections>
+            <label><!-- Survey Question 6 --></label>
+            <section>Survey Question 6</section>
+        </sections>
+        <sections>
+            <label><!-- Survey Question 7 --></label>
+            <section>Survey Question 7</section>
+        </sections>
+        <sections>
+            <label><!-- Survey Question 8 --></label>
+            <section>Survey Question 8</section>
+        </sections>
+        <sections>
+            <label><!-- Survey Question 9 --></label>
+            <section>Survey Question 9</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Intake Number</nameFieldLabel>
+    <quickActions>
+        <label><!-- Create Household And Persons --></label>
+        <name>Create_Household_And_Persons</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Create Parent Survey --></label>
+        <name>Create_Parent_Survey</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Create Parent Survey Flow --></label>
+        <name>Create_Parent_Survey_Flow</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Start Parent Survey --></label>
+        <name>Start_Parent_Survey</name>
+    </quickActions>
+    <recordTypes>
+        <label><!-- CPCS Referral/ Screen --></label>
+        <name>CPCS_Referral_Screen</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Parent Survey --></label>
+        <name>Parent_Survey</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Referral/Screen --></label>
+        <name>Referral_Screen</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Survey Questions --></label>
+        <name>Survey_Questions</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Can not Convert this Parent Survey to Household and Persons as Survey Result is Negative. --></errorMessage>
+        <name>Can_not_convert_Parent_survey</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Cannot Convert this Referral or Parent Survey to Household and Persons as Screen Status or Survey Result is Negative. --></errorMessage>
+        <name>Cannot_convert_Parent_survey</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Once the Record is created, you can not edit this record. Please contact your supervisor . --></errorMessage>
+        <name>Lock_the_record</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Screen Date can not be blank if any of the fields has values --></errorMessage>
+        <name>Screen_date_Field_is_Required</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Program Admission date cannot be future date --></errorMessage>
+        <name>program_date_cannot_be_future</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- New --></label>
+        <name>New</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_Referral --></label>
+        <name>New_Referral</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_Survey_questions --></label>
+        <name>New_Survey_questions</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Parent_Survey --></label>
+        <name>Parent_Survey</name>
+    </webLinks>
+</CustomObjectTranslation>

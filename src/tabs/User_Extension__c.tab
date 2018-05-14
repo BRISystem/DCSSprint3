@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customObject>true</customObject>
+    <description>Custom User Object is an extension of the System User Object.   This object acts as an intersection table necessary to create new object relationships in the System.</description>
+    <mobileReady>false</mobileReady>
+    <motif>Custom15: People</motif>
+</CustomTab>
